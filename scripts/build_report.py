@@ -3,25 +3,32 @@ import os
 print("Biweekly security report generator started")
 print()
 
-repos = [
-    "balkan-security-map",
-    "cee-security-map",
-    "me-security-monitor"
+repos = {
+    "Balkan": "balkan-security-map",
+    "CEE": "cee-security-map",
+    "Middle East": "me-security-monitor"
+}
+
+possible_event_files = [
+    "data/events.json",
+    "docs/data/events.json",
+    "events.json"
 ]
 
-print("Checking cloned repositories:")
-print()
+for region, repo in repos.items():
+    print(f"Checking {region} repository")
 
-for repo in repos:
-    if os.path.exists(repo):
-        print(f"{repo} → FOUND")
-        print("Files inside:")
-        try:
-            files = os.listdir(repo)
-            for f in files[:10]:
-                print(" -", f)
-        except:
-            print("Cannot read files")
-        print()
-    else:
-        print(f"{repo} → NOT FOUND")
+    found = False
+
+    for file in possible_event_files:
+        path = os.path.join(repo, file)
+
+        if os.path.exists(path):
+            print("EVENT FILE FOUND →", path)
+            found = True
+            break
+
+    if not found:
+        print("No events.json found")
+
+    print()
