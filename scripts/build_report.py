@@ -1,31 +1,26 @@
 import os
-
-print("Scanning repositories for data files")
-print()
+import json
 
 repos = {
-    "Balkan": "balkan-security-map",
-    "CEE": "cee-security-map",
-    "Middle East": "me-security-monitor"
+    "Balkan": "balkan-security-map/docs/data/weekly.json",
+    "CEE": "cee-security-map/data/weekly.json"
 }
 
-for region, repo in repos.items():
+print("Checking weekly security data\n")
 
-    print("----", region, "----")
+for region, path in repos.items():
 
-    paths = [
-        repo + "/data",
-        repo + "/docs/data"
-    ]
+    print("Region:", region)
 
-    for p in paths:
-        if os.path.exists(p):
+    if os.path.exists(path):
 
-            print("Directory:", p)
+        with open(path, "r") as f:
+            data = json.load(f)
 
-            files = os.listdir(p)
+        print("weekly.json found")
+        print("records:", len(data))
 
-            for f in files:
-                print(" -", f)
+    else:
+        print("weekly.json NOT FOUND")
 
     print()
