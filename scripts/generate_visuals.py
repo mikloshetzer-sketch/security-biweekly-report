@@ -119,10 +119,10 @@ def create_hotspot_map():
 
     img = mpimg.imread(BASE_MAP_PATH)
 
-    plt.figure(figsize=(9, 5.5))
+    plt.figure(figsize=(10, 6))
     plt.imshow(
         img,
-        extent=[-10, 45, 30, 72],
+        extent=[-30, 150, 0, 80],
         aspect="auto"
     )
 
@@ -137,30 +137,55 @@ def create_hotspot_map():
             c=color,
             alpha=0.85,
             edgecolors="black",
-            linewidths=0.4
+            linewidths=0.5
         )
 
         plt.text(
-            h["lon"] + 0.2,
-            h["lat"] + 0.15,
+            h["lon"] + 0.8,
+            h["lat"] + 0.5,
             h["place"],
-            fontsize=7
+            fontsize=7,
+            color="black"
         )
 
-    plt.xlim(-10, 45)
-    plt.ylim(30, 72)
+    plt.xlim(-30, 150)
+    plt.ylim(0, 80)
 
     plt.title("Regional Security Hotspots")
     plt.xlabel("Longitude")
     plt.ylabel("Latitude")
 
     legend_handles = [
-        plt.Line2D([0], [0], marker="o", color="w", label="High growth", markerfacecolor="red", markeredgecolor="black", markersize=8),
-        plt.Line2D([0], [0], marker="o", color="w", label="Medium growth", markerfacecolor="orange", markeredgecolor="black", markersize=8),
-        plt.Line2D([0], [0], marker="o", color="w", label="Lower / stable", markerfacecolor="green", markeredgecolor="black", markersize=8),
+        plt.Line2D(
+            [0], [0],
+            marker="o",
+            color="w",
+            label="High growth",
+            markerfacecolor="red",
+            markeredgecolor="black",
+            markersize=8
+        ),
+        plt.Line2D(
+            [0], [0],
+            marker="o",
+            color="w",
+            label="Medium growth",
+            markerfacecolor="orange",
+            markeredgecolor="black",
+            markersize=8
+        ),
+        plt.Line2D(
+            [0], [0],
+            marker="o",
+            color="w",
+            label="Lower / stable",
+            markerfacecolor="green",
+            markeredgecolor="black",
+            markersize=8
+        ),
     ]
-    plt.legend(handles=legend_handles, loc="lower left")
 
+    plt.legend(handles=legend_handles, loc="lower left")
     plt.tight_layout()
     plt.savefig("hotspot_map.png")
     plt.close()
