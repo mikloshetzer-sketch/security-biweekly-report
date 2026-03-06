@@ -1,0 +1,29 @@
+name: Inspect Hotspots
+
+on:
+  workflow_dispatch:
+
+jobs:
+  inspect-hotspots:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout aggregator repo
+        uses: actions/checkout@v4
+
+      - name: Clone Balkan repo
+        run: git clone https://github.com/mikloshetzer-sketch/balkan-security-map.git
+
+      - name: Clone CEE repo
+        run: git clone https://github.com/mikloshetzer-sketch/cee-security-map.git
+
+      - name: Clone Middle East repo
+        run: git clone https://github.com/mikloshetzer-sketch/me-security-monitor.git
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run hotspot inspection
+        run: python scripts/inspect_hotspots.py
