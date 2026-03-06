@@ -2,18 +2,6 @@ import os
 import json
 import matplotlib.pyplot as plt
 
-weekly_sources = {
-    "Balkans": "balkan-security-map/docs/data/weekly.json",
-    "Central & Eastern Europe": "cee-security-map/data/weekly.json"
-}
-
-hotspot_sources = {
-    "balkan-security-map/docs/data/hotspots.json",
-    "cee-security-map/data/hotspots.json"
-}
-
-middle_east_events_path = "me-security-monitor/events.json"
-
 
 def load_json(path):
     if not os.path.exists(path):
@@ -22,108 +10,101 @@ def load_json(path):
         return json.load(f)
 
 
-def sum_counts(data):
-    if not isinstance(data, dict):
-        return 0
-    counts = data.get("counts", {})
-    if not isinstance(counts, dict):
-        return 0
-    return sum(v for v in counts.values() if isinstance(v, (int, float)))
-
-
-def get_event_counts():
-
-    counts = {}
-
-    for region, path in weekly_sources.items():
-        data = load_json(path)
-        counts[region] = sum_counts(data)
-
-    me_data = load_json(middle_east_events_path)
-    counts["Middle East"] = len(me_data) if isinstance(me_data, list) else 0
-
-    return counts
-
-
-def create_incident_chart():
-
-    counts = get_event_counts()
-
-    regions = list(counts.keys())
-    values = list(counts.values())
-
-    plt.figure()
-
-    plt.bar(regions, values)
-
-    plt.title("Security Incidents by Region")
-    plt.ylabel("Number of incidents")
-
-    plt.tight_layout()
-
-    plt.savefig("incident_chart.png")
-    plt.close()
-
-
-def get_hotspots():
-
-    hotspots = []
-
-    paths = [
+def get_all_hotspots():
+    files = [
         "balkan-security-map/docs/data/hotspots.json",
         "cee-security-map/data/hotspots.json"
     ]
 
-    for path in paths:
+    all_hotspots = []
 
+    for path in files:
         data = load_json(path)
 
         if not isinstance(data, dict):
             continue
 
         top = data.get("top", [])
+        if not isinstance(top, list):
+            continue
 
-        for h in top[:5]:
+        for item in top:
+            if not isinstance(item, dict):
+                continue
 
-            lat = h.get("lat")
-            lon = h.get("lon")
+            place = item.get("place", "Unknown location")
+            change_pct = item.get("change_pct", 0)
+            lat = item.get("lat")
+            lon = item.get("lon")
 
-            if lat is not None and lon is not None:
-                hotspots.append((lon, lat))
+            try:
+                change_pct = float(change_pct)
+            except Exception:
+                change_pct = 0.0
 
-    return hotspots
+            all_hotspots.append({
+                "place": place,
+                "change_pct": change_pct,
+                "lat": lat,
+                "lon": lon
+            })
+
+    return all_hotspots
 
 
-def create_hotspot_map():
+def create_growth_chart():
+    hotspots = get_all_hotspots()
 
-    hotspots = get_hotspots()
+    hotspots = sorted(
+        hotspots,
+        key=lambda x: x["change_pct"],
+        reverse=True
+    )[:6]
 
     if not hotspots:
         return
 
-    lons = [p[0] for p in hotspots]
-    lats = [p[1] for p in hotspots]
+    labels = [h["place"] for h in hotspots]
+    values = [h["change_pct"] for h in hotspots]
 
-    plt.figure()
+    plt.figure(figsize=(10, 5))
+    plt.bar(labels, values)
+    plt.title("Top 6 Hotspot Growth Rate (%)")
+    plt.ylabel("Growth rate (%)")
+    plt.xticks(rotation=45, ha="right")
+    plt.tight_layout()
+    plt.savefig("growth_chart.png")
+    plt.close()
 
+
+def create_hotspot_map():
+    hotspots = get_all_hotspots()[:10]
+
+    coords = [
+        (h["lon"], h["lat"])
+        for h in hotspots
+        if h["lon"] is not None and h["lat"] is not None
+    ]
+
+    if not coords:
+        return
+
+    lons = [c[0] for c in coords]
+    lats = [c[1] for c in coords]
+
+    plt.figure(figsize=(8, 5))
     plt.scatter(lons, lats)
-
-    plt.title("Regional Security Hotspots")
-
+    plt.title("Regional Hotspot Locations")
     plt.xlabel("Longitude")
     plt.ylabel("Latitude")
-
     plt.tight_layout()
-
     plt.savefig("hotspot_map.png")
     plt.close()
 
 
 def main():
-
-    create_incident_chart()
+    create_growth_chart()
     create_hotspot_map()
-
     print("Visuals generated successfully")
 
 
