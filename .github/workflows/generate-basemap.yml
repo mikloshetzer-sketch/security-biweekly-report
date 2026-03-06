@@ -3,6 +3,9 @@ name: Generate Europe Base Map
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build-map:
     runs-on: ubuntu-latest
