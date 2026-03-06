@@ -44,14 +44,33 @@ def format_change_pct(value):
         return "n.a."
 
 
+def sum_numeric_values(obj):
+    if not isinstance(obj, dict):
+        return 0
+
+    total = 0
+    for value in obj.values():
+        if isinstance(value, (int, float)):
+            total += value
+    return total
+
+
 def get_event_counts():
     results = {}
+
     for region, path in weekly_sources.items():
         data = load_json(path)
-        if isinstance(data, list):
-            results[region] = len(data)
+
+        if isinstance(data, dict):
+            counts = data.get("counts", {})
+
+            if isinstance(counts, dict):
+                results[region] = sum_numeric_values(counts)
+            else:
+                results[region] = 0
         else:
             results[region] = 0
+
     return results
 
 
@@ -227,7 +246,6 @@ def get_middle_east_events(limit=3):
 
     total = len(data)
 
-    # Egyszerű prioritás: magasabb confidence, utána frissebb rekordok maradjanak elöl
     sorted_events = sorted(
         data,
         key=lambda x: (
