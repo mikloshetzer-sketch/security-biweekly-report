@@ -1,4 +1,5 @@
 
+
 import os
 import json
 from datetime import datetime
@@ -385,9 +386,6 @@ report = f"""# REGIONÁLIS BIZTONSÁGPOLITIKAI HELYZETJELENTÉS
 # REGIONAL SECURITY SITUATION REPORT
 
 ## Visual Overview
-
-### Regional Hotspot Map
-![Regional Security Hotspots](hotspot_map.png)
 
 ### Top Hotspot Growth Rate
 ![Hotspot Growth Chart](growth_chart.png)
