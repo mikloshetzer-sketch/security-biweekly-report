@@ -3,9 +3,6 @@
 
 ## Visual Overview
 
-### Regional Hotspot Map
-![Regional Security Hotspots](hotspot_map.png)
-
 ### Top Hotspot Growth Rate
 ![Hotspot Growth Chart](growth_chart.png)
 
@@ -28,7 +25,7 @@ Prepared by: toresvonalak.blog
 
 Az elmúlt időszak fejleményei arra utalnak, hogy a megfigyelt régiókban továbbra is fennmaradnak a biztonsági kockázatok, különösen a regionális politikai feszültségek, a határmenti incidensek és a Közel-Kelethez kapcsolódó stratégiai bizonytalanság tekintetében.
 
-A monitoring rendszer az aktuális időszakban **2443 biztonsági relevanciájú eseményt** azonosított a vizsgált térségekben.
+A monitoring rendszer az aktuális időszakban **2727 biztonsági relevanciájú eseményt** azonosított a vizsgált térségekben.
 
 A jelenlegi trendek alapján valószínűsíthető, hogy a Balkán és a közép- és kelet-európai térségben alacsony intenzitású, de tartós biztonsági incidensek maradnak jelen, míg a Közel-Kelet továbbra is jelentős politikai, gazdasági és stratégiai kockázati forrásként értékelhető.
 
@@ -36,7 +33,7 @@ Bár közvetlen, nagyszabású katonai konfliktus nem minden térségben várhat
 
 Recent developments indicate that security risks remain present across the monitored regions, particularly with regard to political tensions, localized incident activity and persistent strategic uncertainty linked to the Middle East.
 
-The monitoring system identified **2443 security-relevant items** across the currently integrated regional streams.
+The monitoring system identified **2727 security-relevant items** across the currently integrated regional streams.
 
 Current trends suggest that low-intensity but persistent security incidents are likely to remain present in the Balkans and in Central and Eastern Europe, while the Middle East continues to represent a significant source of political, economic and strategic risk.
 
@@ -56,8 +53,8 @@ The political systems of the monitored regions currently show relative instituti
 ### Katonai és biztonsági helyzet / Military and Security Situation
 
 Balkán régióban azonosított események száma: **469**  
-Közép- és Kelet-Európában azonosított események száma: **1742**  
-Közel-Kelethez kapcsolódó azonosított események száma: **232**
+Közép- és Kelet-Európában azonosított események száma: **2032**  
+Közel-Kelethez kapcsolódó azonosított események száma: **226**
 
 Az incidensek többsége alacsony intenzitású eseményekhez, politikai feszültségekhez vagy biztonsági incidensekhez kapcsolódik, miközben a közel-keleti adatfolyam jelentős részben hír alapú regionális fejleményeket követ.
 
@@ -65,9 +62,9 @@ Most detected items remain linked to low-intensity security developments, politi
 
 ### Közel-Kelet / Middle East
 
-A monitoring rendszer az aktuális időszakban **232 közel-keleti eseményt** azonosított. Az események túlnyomó része hírforrásokon alapuló regionális jelzésként értelmezhető.
+A monitoring rendszer az aktuális időszakban **226 közel-keleti eseményt** azonosított. Az események túlnyomó része hírforrásokon alapuló regionális jelzésként értelmezhető.
 
-The monitoring system identified **232 Middle East-related events** in the current dataset. Most items can be interpreted as news-based regional signals.
+The monitoring system identified **226 Middle East-related events** in the current dataset. Most items can be interpreted as news-based regional signals.
 
 #### Kiemelt események / Highlighted events
 
@@ -154,29 +151,29 @@ Signal type: **Politikai / biztonsági incidensjelzés**. Current trends suggest
 
 
 ### Közép- és Kelet-Európa
-**Pest, Hungary**  
-Az elmúlt időszak fejleményei arra utalnak, hogy Pest, Hungary térségében növekvő incidensaktivitás figyelhető meg. A monitoring rendszer kiemelkedően magas eseménysűrűséget azonosított, az aktivitásváltozás mértéke pedig 384.8%. A jelenlegi jelzések elsődlegesen hír- és médiamonitoring alapú incidensjelzés formájában jelentkeznek.  
-Jelzés típusa: **Politikai / biztonsági incidensjelzés**. A jelenlegi trendek alapján valószínűsíthető, hogy a térség rövid távon is a regionális figyelem egyik fontos pontja marad. A hotspot intenzitási pontszáma: **211.935**.
-
-**Pest, Hungary**  
-Recent developments suggest that an upward trend in incident activity can be observed in the Pest, Hungary area. The monitoring system detected a particularly high event density, while the change in activity reached 384.8%. Current signals are primarily identified as news and media monitoring-based signal.  
-Signal type: **Politikai / biztonsági incidensjelzés**. Current trends suggest that this location is likely to remain an important focal point of regional monitoring in the short term. Hotspot intensity score: **211.935**.
-
-**Sochaczew County, Poland**  
-Az elmúlt időszak fejleményei arra utalnak, hogy Sochaczew County, Poland térségében növekvő incidensaktivitás figyelhető meg. A monitoring rendszer kiemelkedően magas eseménysűrűséget azonosított, az aktivitásváltozás mértéke pedig 284.3%. A jelenlegi jelzések elsődlegesen hír- és médiamonitoring alapú incidensjelzés formájában jelentkeznek.  
-Jelzés típusa: **Politikai / biztonsági incidensjelzés**. A jelenlegi trendek alapján valószínűsíthető, hogy a térség rövid távon is a regionális figyelem egyik fontos pontja marad. A hotspot intenzitási pontszáma: **203.434**.
-
-**Sochaczew County, Poland**  
-Recent developments suggest that an upward trend in incident activity can be observed in the Sochaczew County, Poland area. The monitoring system detected a particularly high event density, while the change in activity reached 284.3%. Current signals are primarily identified as news and media monitoring-based signal.  
-Signal type: **Politikai / biztonsági incidensjelzés**. Current trends suggest that this location is likely to remain an important focal point of regional monitoring in the short term. Hotspot intensity score: **203.434**.
+**SO ORP Kralupy nad Vltavou, Czechia**  
+Az elmúlt időszak fejleményei arra utalnak, hogy SO ORP Kralupy nad Vltavou, Czechia térségében növekvő incidensaktivitás figyelhető meg. A monitoring rendszer kiemelkedően magas eseménysűrűséget azonosított, az aktivitásváltozás mértéke pedig 2126.9%. A jelenlegi jelzések elsődlegesen hír- és médiamonitoring alapú incidensjelzés formájában jelentkeznek.  
+Jelzés típusa: **Politikai / biztonsági incidensjelzés**. A jelenlegi trendek alapján valószínűsíthető, hogy a térség rövid távon is a regionális figyelem egyik fontos pontja marad. A hotspot intenzitási pontszáma: **246.449**.
 
 **SO ORP Kralupy nad Vltavou, Czechia**  
-Az elmúlt időszak fejleményei arra utalnak, hogy SO ORP Kralupy nad Vltavou, Czechia térségében növekvő incidensaktivitás figyelhető meg. A monitoring rendszer kiemelkedően magas eseménysűrűséget azonosított, az aktivitásváltozás mértéke pedig 1245.7%. A jelenlegi jelzések elsődlegesen hír- és médiamonitoring alapú incidensjelzés formájában jelentkeznek.  
-Jelzés típusa: **Politikai / biztonsági incidensjelzés**. A jelenlegi trendek alapján valószínűsíthető, hogy a térség rövid távon is a regionális figyelem egyik fontos pontja marad. A hotspot intenzitási pontszáma: **159.121**.
+Recent developments suggest that an upward trend in incident activity can be observed in the SO ORP Kralupy nad Vltavou, Czechia area. The monitoring system detected a particularly high event density, while the change in activity reached 2126.9%. Current signals are primarily identified as news and media monitoring-based signal.  
+Signal type: **Politikai / biztonsági incidensjelzés**. Current trends suggest that this location is likely to remain an important focal point of regional monitoring in the short term. Hotspot intensity score: **246.449**.
 
-**SO ORP Kralupy nad Vltavou, Czechia**  
-Recent developments suggest that an upward trend in incident activity can be observed in the SO ORP Kralupy nad Vltavou, Czechia area. The monitoring system detected a particularly high event density, while the change in activity reached 1245.7%. Current signals are primarily identified as news and media monitoring-based signal.  
-Signal type: **Politikai / biztonsági incidensjelzés**. Current trends suggest that this location is likely to remain an important focal point of regional monitoring in the short term. Hotspot intensity score: **159.121**.
+**Pest, Hungary**  
+Az elmúlt időszak fejleményei arra utalnak, hogy Pest, Hungary térségében növekvő incidensaktivitás figyelhető meg. A monitoring rendszer kiemelkedően magas eseménysűrűséget azonosított, az aktivitásváltozás mértéke pedig 465.9%. A jelenlegi jelzések elsődlegesen hír- és médiamonitoring alapú incidensjelzés formájában jelentkeznek.  
+Jelzés típusa: **Politikai / biztonsági incidensjelzés**. A jelenlegi trendek alapján valószínűsíthető, hogy a térség rövid távon is a regionális figyelem egyik fontos pontja marad. A hotspot intenzitási pontszáma: **232.205**.
+
+**Pest, Hungary**  
+Recent developments suggest that an upward trend in incident activity can be observed in the Pest, Hungary area. The monitoring system detected a particularly high event density, while the change in activity reached 465.9%. Current signals are primarily identified as news and media monitoring-based signal.  
+Signal type: **Politikai / biztonsági incidensjelzés**. Current trends suggest that this location is likely to remain an important focal point of regional monitoring in the short term. Hotspot intensity score: **232.205**.
+
+**Giurgiu, Romania**  
+Az elmúlt időszak fejleményei arra utalnak, hogy Giurgiu, Romania térségében növekvő incidensaktivitás figyelhető meg. A monitoring rendszer kiemelkedően magas eseménysűrűséget azonosított, az aktivitásváltozás mértéke pedig 1597.3%. A jelenlegi jelzések elsődlegesen hír- és médiamonitoring alapú incidensjelzés formájában jelentkeznek.  
+Jelzés típusa: **Politikai / biztonsági incidensjelzés**. A jelenlegi trendek alapján valószínűsíthető, hogy a térség rövid távon is a regionális figyelem egyik fontos pontja marad. A hotspot intenzitási pontszáma: **229.753**.
+
+**Giurgiu, Romania**  
+Recent developments suggest that an upward trend in incident activity can be observed in the Giurgiu, Romania area. The monitoring system detected a particularly high event density, while the change in activity reached 1597.3%. Current signals are primarily identified as news and media monitoring-based signal.  
+Signal type: **Politikai / biztonsági incidensjelzés**. Current trends suggest that this location is likely to remain an important focal point of regional monitoring in the short term. Hotspot intensity score: **229.753**.
 
 
 
