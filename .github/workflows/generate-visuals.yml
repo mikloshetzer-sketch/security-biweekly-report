@@ -1,0 +1,43 @@
+name: Generate Visuals
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-visuals:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout aggregator repo
+        uses: actions/checkout@v4
+
+      - name: Clone Balkan repo
+        run: git clone https://github.com/mikloshetzer-sketch/balkan-security-map.git
+
+      - name: Clone CEE repo
+        run: git clone https://github.com/mikloshetzer-sketch/cee-security-map.git
+
+      - name: Clone Middle East repo
+        run: git clone https://github.com/mikloshetzer-sketch/me-security-monitor.git
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install matplotlib
+        run: pip install matplotlib
+
+      - name: Run visual generator
+        run: python scripts/generate_visuals.py
+
+      - name: Commit generated visuals
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add incident_chart.png hotspot_map.png
+          git commit -m "auto: update visuals" || echo "no changes"
+          git push
