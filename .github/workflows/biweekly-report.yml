@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: '0 6 * * 1'
 
+permissions:
+  contents: write
+
 jobs:
   run-script:
     runs-on: ubuntu-latest
