@@ -1,7 +1,9 @@
-name: Test Biweekly Report
+name: Biweekly Security Report
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 6 * * 1'
 
 jobs:
   run-script:
@@ -27,3 +29,11 @@ jobs:
 
       - name: Run report script
         run: python scripts/build_report.py
+
+      - name: Commit report
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add report.md
+          git commit -m "auto: update security report" || echo "no changes"
+          git push
