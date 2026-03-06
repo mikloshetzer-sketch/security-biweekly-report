@@ -1,6 +1,6 @@
 import os
 
-print("Biweekly security report generator started")
+print("Scanning repositories for data files")
 print()
 
 repos = {
@@ -9,26 +9,23 @@ repos = {
     "Middle East": "me-security-monitor"
 }
 
-possible_event_files = [
-    "data/events.json",
-    "docs/data/events.json",
-    "events.json"
-]
-
 for region, repo in repos.items():
-    print(f"Checking {region} repository")
 
-    found = False
+    print("----", region, "----")
 
-    for file in possible_event_files:
-        path = os.path.join(repo, file)
+    paths = [
+        repo + "/data",
+        repo + "/docs/data"
+    ]
 
-        if os.path.exists(path):
-            print("EVENT FILE FOUND →", path)
-            found = True
-            break
+    for p in paths:
+        if os.path.exists(p):
 
-    if not found:
-        print("No events.json found")
+            print("Directory:", p)
+
+            files = os.listdir(p)
+
+            for f in files:
+                print(" -", f)
 
     print()
