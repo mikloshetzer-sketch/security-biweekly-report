@@ -20,7 +20,7 @@ Prepared by: toresvonalak.blog
 
 Az elmúlt időszak fejleményei arra utalnak, hogy a megfigyelt régiókban továbbra is fennmaradnak a biztonsági kockázatok, különösen a regionális politikai feszültségek, a határmenti incidensek és a Közel-Kelethez kapcsolódó stratégiai bizonytalanság tekintetében.
 
-A monitoring rendszer az aktuális időszakban **229 biztonsági relevanciájú eseményt** azonosított a vizsgált térségekben.
+A monitoring rendszer az aktuális időszakban **2443 biztonsági relevanciájú eseményt** azonosított a vizsgált térségekben.
 
 A jelenlegi trendek alapján valószínűsíthető, hogy a Balkán és a közép- és kelet-európai térségben alacsony intenzitású, de tartós biztonsági incidensek maradnak jelen, míg a Közel-Kelet továbbra is jelentős politikai, gazdasági és stratégiai kockázati forrásként értékelhető.
 
@@ -28,7 +28,7 @@ Bár közvetlen, nagyszabású katonai konfliktus nem minden térségben várhat
 
 Recent developments indicate that security risks remain present across the monitored regions, particularly with regard to political tensions, localized incident activity and persistent strategic uncertainty linked to the Middle East.
 
-The monitoring system identified **229 security-relevant items** across the currently integrated regional streams.
+The monitoring system identified **2443 security-relevant items** across the currently integrated regional streams.
 
 Current trends suggest that low-intensity but persistent security incidents are likely to remain present in the Balkans and in Central and Eastern Europe, while the Middle East continues to represent a significant source of political, economic and strategic risk.
 
@@ -47,9 +47,9 @@ The political systems of the monitored regions currently show relative instituti
 
 ### Katonai és biztonsági helyzet / Military and Security Situation
 
-Balkán régióban azonosított események száma: **0**  
-Közép- és Kelet-Európában azonosított események száma: **0**  
-Közel-Kelethez kapcsolódó azonosított események száma: **229**
+Balkán régióban azonosított események száma: **469**  
+Közép- és Kelet-Európában azonosított események száma: **1742**  
+Közel-Kelethez kapcsolódó azonosított események száma: **232**
 
 Az incidensek többsége alacsony intenzitású eseményekhez, politikai feszültségekhez vagy biztonsági incidensekhez kapcsolódik, miközben a közel-keleti adatfolyam jelentős részben hír alapú regionális fejleményeket követ.
 
@@ -57,9 +57,9 @@ Most detected items remain linked to low-intensity security developments, politi
 
 ### Közel-Kelet / Middle East
 
-A monitoring rendszer az aktuális időszakban **229 közel-keleti eseményt** azonosított. Az események túlnyomó része hírforrásokon alapuló regionális jelzésként értelmezhető.
+A monitoring rendszer az aktuális időszakban **232 közel-keleti eseményt** azonosított. Az események túlnyomó része hírforrásokon alapuló regionális jelzésként értelmezhető.
 
-The monitoring system identified **229 Middle East-related events** in the current dataset. Most items can be interpreted as news-based regional signals.
+The monitoring system identified **232 Middle East-related events** in the current dataset. Most items can be interpreted as news-based regional signals.
 
 #### Kiemelt események / Highlighted events
 
