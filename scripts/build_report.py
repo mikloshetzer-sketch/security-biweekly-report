@@ -1,3 +1,4 @@
+
 import os
 import json
 from datetime import datetime
@@ -382,6 +383,14 @@ date_en = datetime.utcnow().strftime("%Y-%m-%d")
 
 report = f"""# REGIONÁLIS BIZTONSÁGPOLITIKAI HELYZETJELENTÉS
 # REGIONAL SECURITY SITUATION REPORT
+
+## Visual Overview
+
+### Regional Hotspot Map
+![Regional Security Hotspots](hotspot_map.png)
+
+### Top Hotspot Growth Rate
+![Hotspot Growth Chart](growth_chart.png)
 
 Balkán – Közép- és Kelet-Európa – Közel-Kelet  
 Balkans – Central and Eastern Europe – Middle East  
