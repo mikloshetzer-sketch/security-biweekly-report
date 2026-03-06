@@ -9,18 +9,29 @@ sources = {
 
 results = {}
 
+print("Checking weekly security data\n")
+
 for region, path in sources.items():
+
+    print("Region:", region)
 
     if os.path.exists(path):
 
-        with open(path, "r") as f:
+        with open(path, "r", encoding="utf-8") as f:
             data = json.load(f)
 
-        results[region] = len(data)
+        count = len(data)
+        results[region] = count
+
+        print("weekly.json found")
+        print("records:", count)
 
     else:
 
         results[region] = 0
+        print("weekly.json NOT FOUND")
+
+    print()
 
 
 report = f"""
@@ -38,12 +49,19 @@ CEE events: {results["CEE"]}
 
 Security events were recorded across the monitored regions.
 
-Further automated analysis will include hotspot detection,
-incident categorisation and trend analysis.
+Further automated analysis will include:
+- hotspot detection
+- incident categorisation
+- trend analysis
 
+Data sources:
+- Balkan Security Map
+- CEE Security Map
+- Middle East Security Monitor
 """
 
-with open("report.md", "w") as f:
+
+with open("report.md", "w", encoding="utf-8") as f:
     f.write(report)
 
 print("Report generated successfully")
