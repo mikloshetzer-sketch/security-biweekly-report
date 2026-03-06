@@ -1,0 +1,37 @@
+name: Generate Europe Base Map
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build-map:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Clone Balkan repo
+        run: git clone https://github.com/mikloshetzer-sketch/balkan-security-map.git
+
+      - name: Clone CEE repo
+        run: git clone https://github.com/mikloshetzer-sketch/cee-security-map.git
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install matplotlib
+        run: pip install matplotlib
+
+      - name: Run map generator
+        run: python scripts/generate_base_map.py
+
+      - name: Commit base map
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add assets/europe_base_map.png
+          git commit -m "auto: generate europe base map" || echo "no changes"
+          git push
