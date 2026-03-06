@@ -1,6 +1,7 @@
 import os
 import json
 import matplotlib.pyplot as plt
+from mpl_toolkits.basemap import Basemap
 
 
 def load_json(path):
@@ -81,7 +82,7 @@ def create_hotspot_map():
     hotspots = get_all_hotspots()[:10]
 
     coords = [
-        (h["lon"], h["lat"])
+        (h["lon"], h["lat"], h["place"])
         for h in hotspots
         if h["lon"] is not None and h["lat"] is not None
     ]
@@ -89,14 +90,28 @@ def create_hotspot_map():
     if not coords:
         return
 
-    lons = [c[0] for c in coords]
-    lats = [c[1] for c in coords]
-
     plt.figure(figsize=(8, 5))
-    plt.scatter(lons, lats)
-    plt.title("Regional Hotspot Locations")
-    plt.xlabel("Longitude")
-    plt.ylabel("Latitude")
+
+    m = Basemap(
+        projection="merc",
+        llcrnrlat=35,
+        urcrnrlat=55,
+        llcrnrlon=10,
+        urcrnrlon=30,
+        resolution="l"
+    )
+
+    m.drawcoastlines()
+    m.drawcountries()
+    m.fillcontinents(color="lightgray", lake_color="white")
+    m.drawmapboundary(fill_color="white")
+
+    for lon, lat, name in coords:
+        x, y = m(lon, lat)
+        m.scatter(x, y, marker="o")
+        plt.text(x, y, name, fontsize=7)
+
+    plt.title("Regional Security Hotspots")
     plt.tight_layout()
     plt.savefig("hotspot_map.png")
     plt.close()
