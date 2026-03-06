@@ -47,7 +47,9 @@ def draw_geojson_boundaries(ax, path):
 
 def generate_map():
 
-    os.makedirs("assets", exist_ok=True)
+    # csak akkor hozza létre ha nincs
+    if not os.path.isdir("assets"):
+        os.mkdir("assets")
 
     fig, ax = plt.subplots(figsize=(12,8))
 
