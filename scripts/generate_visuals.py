@@ -1,6 +1,10 @@
 import os
 import json
 import matplotlib.pyplot as plt
+import matplotlib.image as mpimg
+
+
+BASE_MAP_PATH = "assets/europe_base_map.png"
 
 
 def load_json(path):
@@ -72,10 +76,10 @@ def hotspot_color(change_pct):
 
 def hotspot_size(score):
     if score >= 25:
-        return 70
+        return 90
     if score >= 15:
-        return 50
-    return 35
+        return 65
+    return 45
 
 
 def create_growth_chart():
@@ -103,41 +107,24 @@ def create_growth_chart():
     plt.close()
 
 
-def draw_geojson_boundaries(path):
-    data = load_json(path)
-
-    if not isinstance(data, dict):
-        return
-
-    features = data.get("features", [])
-
-    for feature in features:
-        geom = feature.get("geometry", {})
-
-        if geom.get("type") == "Polygon":
-            for ring in geom.get("coordinates", []):
-                xs = [p[0] for p in ring]
-                ys = [p[1] for p in ring]
-                plt.plot(xs, ys, linewidth=0.5)
-
-        elif geom.get("type") == "MultiPolygon":
-            for poly in geom.get("coordinates", []):
-                for ring in poly:
-                    xs = [p[0] for p in ring]
-                    ys = [p[1] for p in ring]
-                    plt.plot(xs, ys, linewidth=0.5)
-
-
 def create_hotspot_map():
     hotspots = get_all_hotspots()[:10]
 
     if not hotspots:
         return
 
-    plt.figure(figsize=(9, 5.5))
+    if not os.path.exists(BASE_MAP_PATH):
+        print(f"Base map not found: {BASE_MAP_PATH}")
+        return
 
-    draw_geojson_boundaries("balkan-security-map/docs/data/balkan_countries.geojson")
-    draw_geojson_boundaries("cee-security-map/data/cee_countries.geojson")
+    img = mpimg.imread(BASE_MAP_PATH)
+
+    plt.figure(figsize=(9, 5.5))
+    plt.imshow(
+        img,
+        extent=[-10, 45, 30, 72],
+        aspect="auto"
+    )
 
     for h in hotspots:
         color = hotspot_color(h["change_pct"])
@@ -148,27 +135,29 @@ def create_hotspot_map():
             h["lat"],
             s=size,
             c=color,
-            alpha=0.8
+            alpha=0.85,
+            edgecolors="black",
+            linewidths=0.4
         )
 
         plt.text(
-            h["lon"] + 0.15,
-            h["lat"] + 0.10,
+            h["lon"] + 0.2,
+            h["lat"] + 0.15,
             h["place"],
             fontsize=7
         )
 
-    plt.xlim(10, 30)
-    plt.ylim(35, 55)
+    plt.xlim(-10, 45)
+    plt.ylim(30, 72)
 
     plt.title("Regional Security Hotspots")
     plt.xlabel("Longitude")
     plt.ylabel("Latitude")
 
     legend_handles = [
-        plt.Line2D([0], [0], marker="o", color="w", label="High growth", markerfacecolor="red", markersize=8),
-        plt.Line2D([0], [0], marker="o", color="w", label="Medium growth", markerfacecolor="orange", markersize=8),
-        plt.Line2D([0], [0], marker="o", color="w", label="Lower / stable", markerfacecolor="green", markersize=8),
+        plt.Line2D([0], [0], marker="o", color="w", label="High growth", markerfacecolor="red", markeredgecolor="black", markersize=8),
+        plt.Line2D([0], [0], marker="o", color="w", label="Medium growth", markerfacecolor="orange", markeredgecolor="black", markersize=8),
+        plt.Line2D([0], [0], marker="o", color="w", label="Lower / stable", markerfacecolor="green", markeredgecolor="black", markersize=8),
     ]
     plt.legend(handles=legend_handles, loc="lower left")
 
