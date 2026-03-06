@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 
 
-BASE_MAP_PATH = "assets/europe_base_map.png"
+BASE_MAP_PATH = "assets/Európa.jpg"
 
 
 def load_json(path):
