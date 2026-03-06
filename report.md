@@ -18,21 +18,21 @@ Prepared by: toresvonalak.blog
 # 1. Vezetői összefoglaló  
 ## Executive Summary
 
-Az elmúlt időszak fejleményei arra utalnak, hogy a megfigyelt régiókban továbbra is fennmaradnak a biztonsági kockázatok, különösen a regionális politikai feszültségek és a határmenti incidensek tekintetében.
+Az elmúlt időszak fejleményei arra utalnak, hogy a megfigyelt régiókban továbbra is fennmaradnak a biztonsági kockázatok, különösen a regionális politikai feszültségek, a határmenti incidensek és a Közel-Kelethez kapcsolódó stratégiai bizonytalanság tekintetében.
 
-A monitoring rendszer az aktuális időszakban **0 biztonsági relevanciájú eseményt** azonosított a vizsgált régiók európai alrendszereiben.
+A monitoring rendszer az aktuális időszakban **229 biztonsági relevanciájú eseményt** azonosított a vizsgált térségekben.
 
-A jelenlegi trendek alapján valószínűsíthető, hogy a Balkán és a közép- és kelet-európai térségben alacsony intenzitású, de tartós biztonsági incidensek továbbra is jelen lesznek.
+A jelenlegi trendek alapján valószínűsíthető, hogy a Balkán és a közép- és kelet-európai térségben alacsony intenzitású, de tartós biztonsági incidensek maradnak jelen, míg a Közel-Kelet továbbra is jelentős politikai, gazdasági és stratégiai kockázati forrásként értékelhető.
 
-Bár közvetlen katonai konfliktus nem várható, a helyzet továbbra is fokozott figyelmet igényel a regionális biztonságpolitikai döntéshozók részéről.
+Bár közvetlen, nagyszabású katonai konfliktus nem minden térségben várható, a helyzet továbbra is fokozott figyelmet igényel a regionális biztonságpolitikai döntéshozók részéről.
 
-Recent developments indicate that security risks remain present across the monitored regions, particularly in relation to political tensions and localized incident dynamics.
+Recent developments indicate that security risks remain present across the monitored regions, particularly with regard to political tensions, localized incident activity and persistent strategic uncertainty linked to the Middle East.
 
-The monitoring system identified **0 security-relevant items** across the currently integrated European regional streams.
+The monitoring system identified **229 security-relevant items** across the currently integrated regional streams.
 
-Current trends suggest that low-intensity but persistent security incidents are likely to remain present in the Balkans and in Central and Eastern Europe.
+Current trends suggest that low-intensity but persistent security incidents are likely to remain present in the Balkans and in Central and Eastern Europe, while the Middle East continues to represent a significant source of political, economic and strategic risk.
 
-While direct military confrontation is not assessed as imminent, the overall environment continues to require heightened analytical attention.
+While direct large-scale military confrontation is not assessed as imminent across all theatres, the overall environment still requires heightened analytical attention.
 
 ---
 
@@ -49,11 +49,44 @@ The political systems of the monitored regions currently show relative instituti
 
 Balkán régióban azonosított események száma: **0**  
 Közép- és Kelet-Európában azonosított események száma: **0**  
-Közel-Kelet integrációja: **folyamatban / in progress**
+Közel-Kelethez kapcsolódó azonosított események száma: **229**
 
-Az incidensek többsége alacsony intenzitású eseményekhez, politikai feszültségekhez vagy biztonsági incidensekhez kapcsolódik.
+Az incidensek többsége alacsony intenzitású eseményekhez, politikai feszültségekhez vagy biztonsági incidensekhez kapcsolódik, miközben a közel-keleti adatfolyam jelentős részben hír alapú regionális fejleményeket követ.
 
-Most detected items remain linked to low-intensity security developments, political tensions or localized incident clusters.
+Most detected items remain linked to low-intensity security developments, political tensions or localized incident clusters, while the Middle East data stream is largely driven by news-based regional developments.
+
+### Közel-Kelet / Middle East
+
+A monitoring rendszer az aktuális időszakban **229 közel-keleti eseményt** azonosított. Az események túlnyomó része hírforrásokon alapuló regionális jelzésként értelmezhető.
+
+The monitoring system identified **229 Middle East-related events** in the current dataset. Most items can be interpreted as news-based regional signals.
+
+#### Kiemelt események / Highlighted events
+
+**Iran Update Evening Special Report, March 5, 2026**  
+Dátum: **2026-03-05** | Helyszín: **Israel** | Forrás: **ISW**  
+Az esemény általános monitoring jelzés kategóriába sorolható, és a monitoring rendszer 0.78 bizalmi szint mellett kezelte. A rendelkezésre álló összefoglaló alapján ez egy **regionális fejlemény**, amely hozzájárul a térség folyamatos stratégiai bizonytalanságához. The Institute for the Study of War (ISW) and the Critical Threats Project (CTP) at the American Enterprise Institute are publishing two updates daily to provide analysis on the war with Iran. The morning update will focus on US and Israeli strikes on Iran and Iran and the Axis of Resistance’s response to the strikes. The evening update...
+
+**Iran Update Evening Special Report, March 5, 2026**  
+Date: **2026-03-05** | Location: **Israel** | Source: **ISW**  
+This event can be classified as a general monitoring signal, and it was handled by the monitoring system with a confidence level of 0.78. Based on the available summary, this is a **military** development contributing to the region's continued strategic uncertainty. The Institute for the Study of War (ISW) and the Critical Threats Project (CTP) at the American Enterprise Institute are publishing two updates daily to provide analysis on the war with Iran. The morning update will focus on US and Israeli strikes on Iran and Iran and the Axis of Resistance’s response to the strikes. The evening update...
+
+**Iran Update Morning Special Report, March 5, 2026**  
+Dátum: **2026-03-05** | Helyszín: **Israel** | Forrás: **ISW**  
+Az esemény általános monitoring jelzés kategóriába sorolható, és a monitoring rendszer 0.78 bizalmi szint mellett kezelte. A rendelkezésre álló összefoglaló alapján ez egy **regionális fejlemény**, amely hozzájárul a térség folyamatos stratégiai bizonytalanságához. The Institute for the Study of War (ISW) and the Critical Threats Project (CTP) at the American Enterprise Institute are publishing two updates daily to provide analysis on the war with Iran. The morning update will focus on US and Israeli strikes on Iran and Iran and the Axis of Resistance’s response to the strikes. The evening update...
+
+**Iran Update Morning Special Report, March 5, 2026**  
+Date: **2026-03-05** | Location: **Israel** | Source: **ISW**  
+This event can be classified as a general monitoring signal, and it was handled by the monitoring system with a confidence level of 0.78. Based on the available summary, this is a **military** development contributing to the region's continued strategic uncertainty. The Institute for the Study of War (ISW) and the Critical Threats Project (CTP) at the American Enterprise Institute are publishing two updates daily to provide analysis on the war with Iran. The morning update will focus on US and Israeli strikes on Iran and Iran and the Axis of Resistance’s response to the strikes. The evening update...
+
+**Iran Update Evening Special Report, March 4, 2026**  
+Dátum: **2026-03-04** | Helyszín: **Israel** | Forrás: **ISW**  
+Az esemény általános monitoring jelzés kategóriába sorolható, és a monitoring rendszer 0.78 bizalmi szint mellett kezelte. A rendelkezésre álló összefoglaló alapján ez egy **regionális fejlemény**, amely hozzájárul a térség folyamatos stratégiai bizonytalanságához. The Institute for the Study of War (ISW) and the Critical Threats Project (CTP) at the American Enterprise Institute are publishing two updates daily to provide analysis on the war with Iran. The morning update will focus on US and Israeli strikes on Iran and Iran and the Axis of Resistance’s response to the strikes. The evening update...
+
+**Iran Update Evening Special Report, March 4, 2026**  
+Date: **2026-03-04** | Location: **Israel** | Source: **ISW**  
+This event can be classified as a general monitoring signal, and it was handled by the monitoring system with a confidence level of 0.78. Based on the available summary, this is a **military** development contributing to the region's continued strategic uncertainty. The Institute for the Study of War (ISW) and the Critical Threats Project (CTP) at the American Enterprise Institute are publishing two updates daily to provide analysis on the war with Iran. The morning update will focus on US and Israeli strikes on Iran and Iran and the Axis of Resistance’s response to the strikes. The evening update...
+
 
 ---
 
@@ -150,17 +183,18 @@ Signal type: **Politikai / biztonsági incidensjelzés**. Current trends suggest
 | Politikai instabilitás | közepes | magas | magas |
 | Hibrid műveletek | magas | közepes | magas |
 | Nagyhatalmi versengés | közepes | magas | magas |
+| Energiapiaci zavarok | közepes | magas | magas |
 
 ---
 
 # 7. Előrejelzés  
 ## Forecast
 
-A jelenlegi trendek alapján valószínűsíthető, hogy a régiókban rövid távon fennmarad az alacsony intenzitású biztonsági feszültség.
+A jelenlegi trendek alapján valószínűsíthető, hogy a régiókban rövid távon fennmarad az alacsony intenzitású biztonsági feszültség, miközben a Közel-Kelethez kapcsolódó fejlemények továbbra is közvetett hatást gyakorolhatnak a tágabb regionális biztonsági környezetre.
 
 A geopolitikai rivalizálás erősödése következtében a térség továbbra is stratégiai jelentőségű biztonsági térként jelenik meg.
 
-Current trends suggest that low-intensity regional security pressure is likely to persist in the short term.
+Current trends suggest that low-intensity regional security pressure is likely to persist in the short term, while developments linked to the Middle East may continue to shape the broader regional environment indirectly.
 
 As geopolitical rivalry intensifies, the monitored space will likely continue to function as a strategically relevant security environment.
 
@@ -175,6 +209,7 @@ A regionális stabilitás fenntartása érdekében a következő lépések javas
 - a bizalomépítő intézkedések kiterjesztése  
 - a dezinformáció elleni együttműködés növelése  
 - a gazdasági stabilitást támogató nemzetközi programok bővítése  
+- az energiabiztonsági kitettségek folyamatos monitorozása  
 
 To support regional stability, the following steps are recommended:
 
@@ -182,15 +217,16 @@ To support regional stability, the following steps are recommended:
 - expand confidence-building measures  
 - increase cooperation against disinformation  
 - broaden international programs supporting economic resilience  
+- continuously monitor energy-security vulnerabilities  
 
 ---
 
 # 9. Módszertan és adatforrások  
 ## Methodology and Data Sources
 
-A jelentés automatizált monitoring rendszerekből származó adatok feldolgozásán alapul. A jelenlegi verzió a heti összesítések és hotspot-jelzések alapján készül.
+A jelentés automatizált monitoring rendszerekből származó adatok feldolgozásán alapul. A jelenlegi verzió a heti összesítések, hotspot-jelzések és a Közel-Kelethez kapcsolódó eseménylisták alapján készül.
 
-This report is based on automated monitoring outputs. The current version relies on weekly aggregation files and hotspot signal summaries.
+This report is based on automated monitoring outputs. The current version relies on weekly aggregation files, hotspot signal summaries and Middle East event lists.
 
 Adatforrások / Data sources:
 
