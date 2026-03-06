@@ -8,8 +8,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout aggregator repo
         uses: actions/checkout@v4
+
+      - name: Clone Balkan repo
+        run: git clone https://github.com/mikloshetzer-sketch/balkan-security-map.git
+
+      - name: Clone CEE repo
+        run: git clone https://github.com/mikloshetzer-sketch/cee-security-map.git
+
+      - name: Clone Middle East repo
+        run: git clone https://github.com/mikloshetzer-sketch/me-security-monitor.git
 
       - name: Setup Python
         uses: actions/setup-python@v5
