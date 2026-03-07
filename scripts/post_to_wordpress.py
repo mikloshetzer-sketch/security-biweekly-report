@@ -27,10 +27,12 @@ html_body = markdown.markdown(
 
 styled_content = f"""
 <div style="background:#4b5563;padding:40px 20px;">
-  <div style="max-width:1000px;margin:0 auto;">
-    <div style="background:#f8fafc;color:#1f2937;padding:32px;border-radius:18px;box-shadow:0 10px 25px rgba(0,0,0,0.18);line-height:1.75;font-size:18px;">
+  <div style="max-width:1000px;margin:0 auto;display:flex;flex-direction:column;gap:30px;">
+
+    <div style="background:#f8fafc;color:#1f2937;padding:36px;border-radius:18px;box-shadow:0 10px 25px rgba(0,0,0,0.2);line-height:1.75;font-size:18px;">
       {html_body}
     </div>
+
   </div>
 </div>
 """
