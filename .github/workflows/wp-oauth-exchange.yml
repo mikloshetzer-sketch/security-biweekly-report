@@ -16,6 +16,7 @@ jobs:
           mkdir -p out
           cat > out/wp_token_bundle.json <<EOF
           {
+            "client_id": "134620",
             "code": "${{ github.event.inputs.code }}"
           }
           EOF
