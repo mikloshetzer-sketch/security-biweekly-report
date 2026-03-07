@@ -18,8 +18,9 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install requests
-        run: pip install requests
+      - name: Install dependencies
+        run: |
+          pip install requests markdown
 
       - name: Run WordPress post script
         env:
