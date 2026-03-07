@@ -10,7 +10,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Check report.md exists
+      - name: Print report.md
         run: |
-          ls -la
-          test -f report.md && echo "report.md megtalálva"
+          echo "---- REPORT CONTENT ----"
+          cat report.md
+          echo "------------------------"
