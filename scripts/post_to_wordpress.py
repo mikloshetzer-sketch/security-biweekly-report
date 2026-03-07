@@ -1,60 +1,56 @@
 import os
 from pathlib import Path
-from datetime import datetime, UTC
+from datetime import datetime, timezone
 
 import requests
+import markdown
 
 REPORT_FILE = Path("report.md")
 
 TOKEN = os.environ["WPCOM_ACCESS_TOKEN"]
 SITE = os.environ["WPCOM_SITE"]
 
-title = f"Security Biweekly Report - {datetime.now(UTC).strftime('%Y-%m-%d')}"
-
 if not REPORT_FILE.exists():
-    raise SystemExit("Nincs report.md fájl.")
+    raise SystemExit("report.md not found")
 
-content = REPORT_FILE.read_text(encoding="utf-8").strip()
+md_text = REPORT_FILE.read_text(encoding="utf-8").strip()
 
-if not content:
-    raise SystemExit("A report.md üres.")
+if not md_text:
+    raise SystemExit("report.md is empty")
 
-headers = {
-    "Authorization": f"Bearer {TOKEN}"
-}
+title = "Security Biweekly Report - " + datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
-# 1. Megnézzük, van-e már ilyen című poszt
-search_url = f"https://public-api.wordpress.com/rest/v1.1/sites/{SITE}/posts"
-search_response = requests.get(
-    search_url,
-    headers=headers,
-    params={"search": title},
-    timeout=60,
+html_body = markdown.markdown(
+    md_text,
+    extensions=["extra", "tables", "fenced_code", "nl2br"]
 )
 
-print("SEARCH STATUS:", search_response.status_code)
-print("SEARCH RESPONSE:", search_response.text)
+styled_content = f"""
+<div style="background:#4b5563;padding:40px 20px;">
+  <div style="max-width:1000px;margin:0 auto;">
+    <div style="background:#f8fafc;color:#1f2937;padding:32px;border-radius:18px;box-shadow:0 10px 25px rgba(0,0,0,0.18);line-height:1.75;font-size:18px;">
+      {html_body}
+    </div>
+  </div>
+</div>
+"""
 
-search_response.raise_for_status()
-search_data = search_response.json()
+url = f"https://public-api.wordpress.com/rest/v1.1/sites/{SITE}/posts/new"
 
-if search_data.get("found", 0) > 0:
-    raise SystemExit("Már létezik ilyen című poszt, kihagyva.")
-
-# 2. Új poszt létrehozása
-post_url = f"https://public-api.wordpress.com/rest/v1.1/sites/{SITE}/posts/new"
-post_response = requests.post(
-    post_url,
-    headers=headers,
+response = requests.post(
+    url,
+    headers={
+        "Authorization": f"Bearer {TOKEN}"
+    },
     data={
         "title": title,
-        "content": content,
-        "status": "publish",
+        "content": styled_content,
+        "status": "publish"
     },
-    timeout=60,
+    timeout=60
 )
 
-print("POST STATUS:", post_response.status_code)
-print("POST RESPONSE:", post_response.text)
+print("STATUS:", response.status_code)
+print("RESPONSE:", response.text)
 
-post_response.raise_for_status()
+response.raise_for_status()
