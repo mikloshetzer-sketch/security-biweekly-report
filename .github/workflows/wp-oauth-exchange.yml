@@ -1,0 +1,27 @@
+name: WP OAuth exchange
+
+on:
+  workflow_dispatch:
+    inputs:
+      code:
+        description: "WordPress OAuth code"
+        required: true
+
+jobs:
+  exchange:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create token bundle placeholder
+        run: |
+          mkdir -p out
+          cat > out/wp_token_bundle.json <<EOF
+          {
+            "code": "${{ github.event.inputs.code }}"
+          }
+          EOF
+
+      - name: Upload token bundle
+        uses: actions/upload-artifact@v4
+        with:
+          name: wp-token-bundle
+          path: out/wp_token_bundle.json
