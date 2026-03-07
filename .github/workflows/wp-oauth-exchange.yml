@@ -11,15 +11,21 @@ jobs:
   exchange:
     runs-on: ubuntu-latest
     steps:
-      - name: Create token bundle placeholder
+      - name: Exchange code for token
+        env:
+          CLIENT_ID: "134620"
+          CLIENT_SECRET: ${{ secrets.WPCOM_CLIENT_SECRET }}
+          CODE: ${{ github.event.inputs.code }}
         run: |
           mkdir -p out
-          cat > out/wp_token_bundle.json <<EOF
-          {
-            "client_id": "134620",
-            "code": "${{ github.event.inputs.code }}"
-          }
-          EOF
+
+          curl https://public-api.wordpress.com/oauth2/token \
+          -d client_id=$CLIENT_ID \
+          -d redirect_uri=https://example.com/callback \
+          -d client_secret=$CLIENT_SECRET \
+          -d code=$CODE \
+          -d grant_type=authorization_code \
+          > out/wp_token_bundle.json
 
       - name: Upload token bundle
         uses: actions/upload-artifact@v4
