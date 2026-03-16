@@ -9,8 +9,8 @@
 Balkán – Közép- és Kelet-Európa – Közel-Kelet  
 Balkans – Central and Eastern Europe – Middle East  
 
-Készítés dátuma: 2026-03-09  
-Date of issue: 2026-03-09  
+Készítés dátuma: 2026-03-16  
+Date of issue: 2026-03-16  
 
 Terjesztés: Nyilvános elemzés  
 Distribution: Public analysis  
@@ -25,7 +25,7 @@ Prepared by: toresvonalak.blog
 
 Az elmúlt időszak fejleményei arra utalnak, hogy a megfigyelt régiókban továbbra is fennmaradnak a biztonsági kockázatok, különösen a regionális politikai feszültségek, a határmenti incidensek és a Közel-Kelethez kapcsolódó stratégiai bizonytalanság tekintetében.
 
-A monitoring rendszer az aktuális időszakban **3543 biztonsági relevanciájú eseményt** azonosított a vizsgált térségekben.
+A monitoring rendszer az aktuális időszakban **5801 biztonsági relevanciájú eseményt** azonosított a vizsgált térségekben.
 
 A jelenlegi trendek alapján valószínűsíthető, hogy a Balkán és a közép- és kelet-európai térségben alacsony intenzitású, de tartós biztonsági incidensek maradnak jelen, míg a Közel-Kelet továbbra is jelentős politikai, gazdasági és stratégiai kockázati forrásként értékelhető.
 
@@ -33,7 +33,7 @@ Bár közvetlen, nagyszabású katonai konfliktus nem minden térségben várhat
 
 Recent developments indicate that security risks remain present across the monitored regions, particularly with regard to political tensions, localized incident activity and persistent strategic uncertainty linked to the Middle East.
 
-The monitoring system identified **3543 security-relevant items** across the currently integrated regional streams.
+The monitoring system identified **5801 security-relevant items** across the currently integrated regional streams.
 
 Current trends suggest that low-intensity but persistent security incidents are likely to remain present in the Balkans and in Central and Eastern Europe, while the Middle East continues to represent a significant source of political, economic and strategic risk.
 
@@ -52,9 +52,9 @@ The political systems of the monitored regions currently show relative instituti
 
 ### Katonai és biztonsági helyzet / Military and Security Situation
 
-Balkán régióban azonosított események száma: **476**  
-Közép- és Kelet-Európában azonosított események száma: **2840**  
-Közel-Kelethez kapcsolódó azonosított események száma: **227**
+Balkán régióban azonosított események száma: **541**  
+Közép- és Kelet-Európában azonosított események száma: **5049**  
+Közel-Kelethez kapcsolódó azonosított események száma: **211**
 
 Az incidensek többsége alacsony intenzitású eseményekhez, politikai feszültségekhez vagy biztonsági incidensekhez kapcsolódik, miközben a közel-keleti adatfolyam jelentős részben hír alapú regionális fejleményeket követ.
 
@@ -62,35 +62,35 @@ Most detected items remain linked to low-intensity security developments, politi
 
 ### Közel-Kelet / Middle East
 
-A monitoring rendszer az aktuális időszakban **227 közel-keleti eseményt** azonosított. Az események túlnyomó része hírforrásokon alapuló regionális jelzésként értelmezhető.
+A monitoring rendszer az aktuális időszakban **211 közel-keleti eseményt** azonosított. Az események túlnyomó része hírforrásokon alapuló regionális jelzésként értelmezhető.
 
-The monitoring system identified **227 Middle East-related events** in the current dataset. Most items can be interpreted as news-based regional signals.
+The monitoring system identified **211 Middle East-related events** in the current dataset. Most items can be interpreted as news-based regional signals.
 
 #### Kiemelt események / Highlighted events
 
-**Iran Update Evening Special Report, March 8, 2026**  
-Dátum: **2026-03-08** | Helyszín: **Israel** | Forrás: **ISW**  
-Az esemény általános monitoring jelzés kategóriába sorolható, és a monitoring rendszer 0.78 bizalmi szint mellett kezelte. A rendelkezésre álló összefoglaló alapján ez egy **regionális fejlemény**, amely hozzájárul a térség folyamatos stratégiai bizonytalanságához. The Institute for the Study of War (ISW) and the Critical Threats Project (CTP) at the American Enterprise Institute are publishing two updates daily to provide analysis on the war with Iran. The morning update will focus on US and Israeli strikes on Iran and Iran and the Axis of Resistance’s response to the strikes. The evening update...
+**Iran Update Evening Special Report, March 15, 2026**  
+Dátum: **2026-03-15** | Helyszín: **Israel** | Forrás: **ISW**  
+Az esemény általános monitoring jelzés kategóriába sorolható, és a monitoring rendszer 0.78 bizalmi szint mellett kezelte. A rendelkezésre álló összefoglaló alapján ez egy **regionális fejlemény**, amely hozzájárul a térség folyamatos stratégiai bizonytalanságához. The Institute for the Study of War (ISW) and The Critical Threats Project (CTP) at the American Enterprise Institute are publishing daily updates to provide analysis on the war with Iran. The updates focus on US and Israeli strikes on Iran and Iran and the Axis of Resistance’s response to the strikes. The updates cover events from the...
 
-**Iran Update Evening Special Report, March 8, 2026**  
-Date: **2026-03-08** | Location: **Israel** | Source: **ISW**  
-This event can be classified as a general monitoring signal, and it was handled by the monitoring system with a confidence level of 0.78. Based on the available summary, this is a **military** development contributing to the region's continued strategic uncertainty. The Institute for the Study of War (ISW) and the Critical Threats Project (CTP) at the American Enterprise Institute are publishing two updates daily to provide analysis on the war with Iran. The morning update will focus on US and Israeli strikes on Iran and Iran and the Axis of Resistance’s response to the strikes. The evening update...
+**Iran Update Evening Special Report, March 15, 2026**  
+Date: **2026-03-15** | Location: **Israel** | Source: **ISW**  
+This event can be classified as a general monitoring signal, and it was handled by the monitoring system with a confidence level of 0.78. Based on the available summary, this is a **military** development contributing to the region's continued strategic uncertainty. The Institute for the Study of War (ISW) and The Critical Threats Project (CTP) at the American Enterprise Institute are publishing daily updates to provide analysis on the war with Iran. The updates focus on US and Israeli strikes on Iran and Iran and the Axis of Resistance’s response to the strikes. The updates cover events from the...
 
-**Iran Update Morning Special Report, March 8, 2026**  
-Dátum: **2026-03-08** | Helyszín: **Israel** | Forrás: **ISW**  
-Az esemény általános monitoring jelzés kategóriába sorolható, és a monitoring rendszer 0.78 bizalmi szint mellett kezelte. A rendelkezésre álló összefoglaló alapján ez egy **regionális fejlemény**, amely hozzájárul a térség folyamatos stratégiai bizonytalanságához. The Institute for the Study of War (ISW) and the Critical Threats Project (CTP) at the American Enterprise Institute are publishing two updates daily to provide analysis on the war with Iran. The morning update will focus on US and Israeli strikes on Iran and Iran and the Axis of Resistance’s response to the strikes. The evening update...
+**Iran Update Special Report, March 14, 2026**  
+Dátum: **2026-03-14** | Helyszín: **Israel** | Forrás: **ISW**  
+Az esemény általános monitoring jelzés kategóriába sorolható, és a monitoring rendszer 0.78 bizalmi szint mellett kezelte. A rendelkezésre álló összefoglaló alapján ez egy **regionális fejlemény**, amely hozzájárul a térség folyamatos stratégiai bizonytalanságához. The Institute for the Study of War (ISW) and The Critical Threats Project (CTP) at the American Enterprise Institute are publishing daily updates to provide analysis on the war with Iran. The updates focus on US and Israeli strikes on Iran and Iran and the Axis of Resistance’s response to the strikes. The updates cover events from the...
 
-**Iran Update Morning Special Report, March 8, 2026**  
-Date: **2026-03-08** | Location: **Israel** | Source: **ISW**  
-This event can be classified as a general monitoring signal, and it was handled by the monitoring system with a confidence level of 0.78. Based on the available summary, this is a **military** development contributing to the region's continued strategic uncertainty. The Institute for the Study of War (ISW) and the Critical Threats Project (CTP) at the American Enterprise Institute are publishing two updates daily to provide analysis on the war with Iran. The morning update will focus on US and Israeli strikes on Iran and Iran and the Axis of Resistance’s response to the strikes. The evening update...
+**Iran Update Special Report, March 14, 2026**  
+Date: **2026-03-14** | Location: **Israel** | Source: **ISW**  
+This event can be classified as a general monitoring signal, and it was handled by the monitoring system with a confidence level of 0.78. Based on the available summary, this is a **military** development contributing to the region's continued strategic uncertainty. The Institute for the Study of War (ISW) and The Critical Threats Project (CTP) at the American Enterprise Institute are publishing daily updates to provide analysis on the war with Iran. The updates focus on US and Israeli strikes on Iran and Iran and the Axis of Resistance’s response to the strikes. The updates cover events from the...
 
-**Iran Update Evening Special Report, March 7, 2026**  
-Dátum: **2026-03-07** | Helyszín: **Israel** | Forrás: **ISW**  
-Az esemény általános monitoring jelzés kategóriába sorolható, és a monitoring rendszer 0.78 bizalmi szint mellett kezelte. A rendelkezésre álló összefoglaló alapján ez egy **regionális fejlemény**, amely hozzájárul a térség folyamatos stratégiai bizonytalanságához. The Institute for the Study of War (ISW) and the Critical Threats Project (CTP) at the American Enterprise Institute are publishing two updates daily to provide analysis on the war with Iran. The morning update will focus on US and Israeli strikes on Iran and Iran and the Axis of Resistance’s response to the strikes. The evening update...
+**Iran Update Evening Special Report, March 13, 2026**  
+Dátum: **2026-03-13** | Helyszín: **Israel** | Forrás: **ISW**  
+Az esemény általános monitoring jelzés kategóriába sorolható, és a monitoring rendszer 0.78 bizalmi szint mellett kezelte. A rendelkezésre álló összefoglaló alapján ez egy **regionális fejlemény**, amely hozzájárul a térség folyamatos stratégiai bizonytalanságához. The Institute for the Study of War (ISW) and The Critical Threats Project (CTP) at the American Enterprise Institute are publishing daily updates to provide analysis on the war with Iran. The updates focus on US and Israeli strikes on Iran and Iran and the Axis of Resistance’s response to the strikes. The updates cover events from the...
 
-**Iran Update Evening Special Report, March 7, 2026**  
-Date: **2026-03-07** | Location: **Israel** | Source: **ISW**  
-This event can be classified as a general monitoring signal, and it was handled by the monitoring system with a confidence level of 0.78. Based on the available summary, this is a **military** development contributing to the region's continued strategic uncertainty. The Institute for the Study of War (ISW) and the Critical Threats Project (CTP) at the American Enterprise Institute are publishing two updates daily to provide analysis on the war with Iran. The morning update will focus on US and Israeli strikes on Iran and Iran and the Axis of Resistance’s response to the strikes. The evening update...
+**Iran Update Evening Special Report, March 13, 2026**  
+Date: **2026-03-13** | Location: **Israel** | Source: **ISW**  
+This event can be classified as a general monitoring signal, and it was handled by the monitoring system with a confidence level of 0.78. Based on the available summary, this is a **military** development contributing to the region's continued strategic uncertainty. The Institute for the Study of War (ISW) and The Critical Threats Project (CTP) at the American Enterprise Institute are publishing daily updates to provide analysis on the war with Iran. The updates focus on US and Israeli strikes on Iran and Iran and the Axis of Resistance’s response to the strikes. The updates cover events from the...
 
 
 ---
@@ -126,54 +126,54 @@ Hybrid elements have also become more visible, especially in the field of inform
 
 ### Balkán
 **Regional Unit of East Attica, Greece**  
-Az elmúlt időszak fejleményei arra utalnak, hogy Regional Unit of East Attica, Greece térségében növekvő incidensaktivitás figyelhető meg. A monitoring rendszer kiemelkedően magas eseménysűrűséget azonosított, az aktivitásváltozás mértéke pedig 218.9%. A jelenlegi jelzések elsődlegesen hír- és médiamonitoring alapú incidensjelzés formájában jelentkeznek.  
-Jelzés típusa: **Politikai / biztonsági incidensjelzés**. A jelenlegi trendek alapján valószínűsíthető, hogy a térség rövid távon is a regionális figyelem egyik fontos pontja marad. A hotspot intenzitási pontszáma: **28.788**.
+Az elmúlt időszak fejleményei arra utalnak, hogy Regional Unit of East Attica, Greece térségében növekvő incidensaktivitás figyelhető meg. A monitoring rendszer kiemelkedően magas eseménysűrűséget azonosított, az aktivitásváltozás mértéke pedig 294.6%. A jelenlegi jelzések elsődlegesen hír- és médiamonitoring alapú incidensjelzés formájában jelentkeznek.  
+Jelzés típusa: **Politikai / biztonsági incidensjelzés**. A jelenlegi trendek alapján valószínűsíthető, hogy a térség rövid távon is a regionális figyelem egyik fontos pontja marad. A hotspot intenzitási pontszáma: **26.235**.
 
 **Regional Unit of East Attica, Greece**  
-Recent developments suggest that an upward trend in incident activity can be observed in the Regional Unit of East Attica, Greece area. The monitoring system detected a particularly high event density, while the change in activity reached 218.9%. Current signals are primarily identified as news and media monitoring-based signal.  
-Signal type: **Politikai / biztonsági incidensjelzés**. Current trends suggest that this location is likely to remain an important focal point of regional monitoring in the short term. Hotspot intensity score: **28.788**.
+Recent developments suggest that an upward trend in incident activity can be observed in the Regional Unit of East Attica, Greece area. The monitoring system detected a particularly high event density, while the change in activity reached 294.6%. Current signals are primarily identified as news and media monitoring-based signal.  
+Signal type: **Politikai / biztonsági incidensjelzés**. Current trends suggest that this location is likely to remain an important focal point of regional monitoring in the short term. Hotspot intensity score: **26.235**.
 
 **Phthiotis Regional Unit, Greece**  
-Az elmúlt időszak fejleményei arra utalnak, hogy Phthiotis Regional Unit, Greece térségében növekvő incidensaktivitás figyelhető meg. A monitoring rendszer jelentős eseménysűrűséget azonosított, az aktivitásváltozás mértéke pedig 355.4%. A jelenlegi jelzések elsődlegesen hír- és médiamonitoring alapú incidensjelzés formájában jelentkeznek.  
-Jelzés típusa: **Politikai / biztonsági incidensjelzés**. A jelenlegi trendek alapján valószínűsíthető, hogy a térség rövid távon is a regionális figyelem egyik fontos pontja marad. A hotspot intenzitási pontszáma: **17.550**.
+Az elmúlt időszak fejleményei arra utalnak, hogy Phthiotis Regional Unit, Greece térségében növekvő incidensaktivitás figyelhető meg. A monitoring rendszer jelentős eseménysűrűséget azonosított, az aktivitásváltozás mértéke pedig 372.7%. A jelenlegi jelzések elsődlegesen hír- és médiamonitoring alapú incidensjelzés formájában jelentkeznek.  
+Jelzés típusa: **Politikai / biztonsági incidensjelzés**. A jelenlegi trendek alapján valószínűsíthető, hogy a térség rövid távon is a regionális figyelem egyik fontos pontja marad. A hotspot intenzitási pontszáma: **17.688**.
 
 **Phthiotis Regional Unit, Greece**  
-Recent developments suggest that an upward trend in incident activity can be observed in the Phthiotis Regional Unit, Greece area. The monitoring system detected a significant event density, while the change in activity reached 355.4%. Current signals are primarily identified as news and media monitoring-based signal.  
-Signal type: **Politikai / biztonsági incidensjelzés**. Current trends suggest that this location is likely to remain an important focal point of regional monitoring in the short term. Hotspot intensity score: **17.550**.
+Recent developments suggest that an upward trend in incident activity can be observed in the Phthiotis Regional Unit, Greece area. The monitoring system detected a significant event density, while the change in activity reached 372.7%. Current signals are primarily identified as news and media monitoring-based signal.  
+Signal type: **Politikai / biztonsági incidensjelzés**. Current trends suggest that this location is likely to remain an important focal point of regional monitoring in the short term. Hotspot intensity score: **17.688**.
 
-**Harghita, Romania**  
-Az elmúlt időszak fejleményei arra utalnak, hogy Harghita, Romania térségében növekvő incidensaktivitás figyelhető meg. A monitoring rendszer jelentős eseménysűrűséget azonosított, az aktivitásváltozás mértéke pedig 432.5%. A jelenlegi jelzések elsődlegesen hír- és médiamonitoring alapú incidensjelzés formájában jelentkeznek.  
-Jelzés típusa: **Politikai / biztonsági incidensjelzés**. A jelenlegi trendek alapján valószínűsíthető, hogy a térség rövid távon is a regionális figyelem egyik fontos pontja marad. A hotspot intenzitási pontszáma: **15.974**.
+**Pest, Hungary**  
+Az elmúlt időszak fejleményei arra utalnak, hogy Pest, Hungary térségében növekvő incidensaktivitás figyelhető meg. A monitoring rendszer jelentős eseménysűrűséget azonosított, az aktivitásváltozás mértéke pedig 352.1%. A jelenlegi jelzések elsődlegesen hír- és médiamonitoring alapú incidensjelzés formájában jelentkeznek.  
+Jelzés típusa: **Politikai / biztonsági incidensjelzés**. A jelenlegi trendek alapján valószínűsíthető, hogy a térség rövid távon is a regionális figyelem egyik fontos pontja marad. A hotspot intenzitási pontszáma: **15.767**.
 
-**Harghita, Romania**  
-Recent developments suggest that an upward trend in incident activity can be observed in the Harghita, Romania area. The monitoring system detected a significant event density, while the change in activity reached 432.5%. Current signals are primarily identified as news and media monitoring-based signal.  
-Signal type: **Politikai / biztonsági incidensjelzés**. Current trends suggest that this location is likely to remain an important focal point of regional monitoring in the short term. Hotspot intensity score: **15.974**.
+**Pest, Hungary**  
+Recent developments suggest that an upward trend in incident activity can be observed in the Pest, Hungary area. The monitoring system detected a significant event density, while the change in activity reached 352.1%. Current signals are primarily identified as news and media monitoring-based signal.  
+Signal type: **Politikai / biztonsági incidensjelzés**. Current trends suggest that this location is likely to remain an important focal point of regional monitoring in the short term. Hotspot intensity score: **15.767**.
 
 
 ### Közép- és Kelet-Európa
-**SO ORP Kralupy nad Vltavou, Czechia**  
-Az elmúlt időszak fejleményei arra utalnak, hogy SO ORP Kralupy nad Vltavou, Czechia térségében növekvő incidensaktivitás figyelhető meg. A monitoring rendszer kiemelkedően magas eseménysűrűséget azonosított, az aktivitásváltozás mértéke pedig 4445.2%. A jelenlegi jelzések elsődlegesen hír- és médiamonitoring alapú incidensjelzés formájában jelentkeznek.  
-Jelzés típusa: **Politikai / biztonsági incidensjelzés**. A jelenlegi trendek alapján valószínűsíthető, hogy a térség rövid távon is a regionális figyelem egyik fontos pontja marad. A hotspot intenzitási pontszáma: **465.927**.
-
-**SO ORP Kralupy nad Vltavou, Czechia**  
-Recent developments suggest that an upward trend in incident activity can be observed in the SO ORP Kralupy nad Vltavou, Czechia area. The monitoring system detected a particularly high event density, while the change in activity reached 4445.2%. Current signals are primarily identified as news and media monitoring-based signal.  
-Signal type: **Politikai / biztonsági incidensjelzés**. Current trends suggest that this location is likely to remain an important focal point of regional monitoring in the short term. Hotspot intensity score: **465.927**.
+**Giurgiu, Romania**  
+Az elmúlt időszak fejleményei arra utalnak, hogy Giurgiu, Romania térségében növekvő incidensaktivitás figyelhető meg. A monitoring rendszer kiemelkedően magas eseménysűrűséget azonosított, az aktivitásváltozás mértéke pedig 7453.1%. A jelenlegi jelzések elsődlegesen hír- és médiamonitoring alapú incidensjelzés formájában jelentkeznek.  
+Jelzés típusa: **Politikai / biztonsági incidensjelzés**. A jelenlegi trendek alapján valószínűsíthető, hogy a térség rövid távon is a regionális figyelem egyik fontos pontja marad. A hotspot intenzitási pontszáma: **759.832**.
 
 **Giurgiu, Romania**  
-Az elmúlt időszak fejleményei arra utalnak, hogy Giurgiu, Romania térségében növekvő incidensaktivitás figyelhető meg. A monitoring rendszer kiemelkedően magas eseménysűrűséget azonosított, az aktivitásváltozás mértéke pedig 3667.7%. A jelenlegi jelzések elsődlegesen hír- és médiamonitoring alapú incidensjelzés formájában jelentkeznek.  
-Jelzés típusa: **Politikai / biztonsági incidensjelzés**. A jelenlegi trendek alapján valószínűsíthető, hogy a térség rövid távon is a regionális figyelem egyik fontos pontja marad. A hotspot intenzitási pontszáma: **449.101**.
+Recent developments suggest that an upward trend in incident activity can be observed in the Giurgiu, Romania area. The monitoring system detected a particularly high event density, while the change in activity reached 7453.1%. Current signals are primarily identified as news and media monitoring-based signal.  
+Signal type: **Politikai / biztonsági incidensjelzés**. Current trends suggest that this location is likely to remain an important focal point of regional monitoring in the short term. Hotspot intensity score: **759.832**.
 
-**Giurgiu, Romania**  
-Recent developments suggest that an upward trend in incident activity can be observed in the Giurgiu, Romania area. The monitoring system detected a particularly high event density, while the change in activity reached 3667.7%. Current signals are primarily identified as news and media monitoring-based signal.  
-Signal type: **Politikai / biztonsági incidensjelzés**. Current trends suggest that this location is likely to remain an important focal point of regional monitoring in the short term. Hotspot intensity score: **449.101**.
+**SO ORP Kralupy nad Vltavou, Czechia**  
+Az elmúlt időszak fejleményei arra utalnak, hogy SO ORP Kralupy nad Vltavou, Czechia térségében növekvő incidensaktivitás figyelhető meg. A monitoring rendszer kiemelkedően magas eseménysűrűséget azonosított, az aktivitásváltozás mértéke pedig 7401.2%. A jelenlegi jelzések elsődlegesen hír- és médiamonitoring alapú incidensjelzés formájában jelentkeznek.  
+Jelzés típusa: **Politikai / biztonsági incidensjelzés**. A jelenlegi trendek alapján valószínűsíthető, hogy a térség rövid távon is a regionális figyelem egyik fontos pontja marad. A hotspot intenzitási pontszáma: **742.185**.
+
+**SO ORP Kralupy nad Vltavou, Czechia**  
+Recent developments suggest that an upward trend in incident activity can be observed in the SO ORP Kralupy nad Vltavou, Czechia area. The monitoring system detected a particularly high event density, while the change in activity reached 7401.2%. Current signals are primarily identified as news and media monitoring-based signal.  
+Signal type: **Politikai / biztonsági incidensjelzés**. Current trends suggest that this location is likely to remain an important focal point of regional monitoring in the short term. Hotspot intensity score: **742.185**.
 
 **Vilnius County, Lithuania**  
-Az elmúlt időszak fejleményei arra utalnak, hogy Vilnius County, Lithuania térségében növekvő incidensaktivitás figyelhető meg. A monitoring rendszer kiemelkedően magas eseménysűrűséget azonosított, az aktivitásváltozás mértéke pedig 5124.4%. A jelenlegi jelzések elsődlegesen hír- és médiamonitoring alapú incidensjelzés formájában jelentkeznek.  
-Jelzés típusa: **Politikai / biztonsági incidensjelzés**. A jelenlegi trendek alapján valószínűsíthető, hogy a térség rövid távon is a regionális figyelem egyik fontos pontja marad. A hotspot intenzitási pontszáma: **294.468**.
+Az elmúlt időszak fejleményei arra utalnak, hogy Vilnius County, Lithuania térségében növekvő incidensaktivitás figyelhető meg. A monitoring rendszer kiemelkedően magas eseménysűrűséget azonosított, az aktivitásváltozás mértéke pedig 10339.7%. A jelenlegi jelzések elsődlegesen hír- és médiamonitoring alapú incidensjelzés formájában jelentkeznek.  
+Jelzés típusa: **Politikai / biztonsági incidensjelzés**. A jelenlegi trendek alapján valószínűsíthető, hogy a térség rövid távon is a regionális figyelem egyik fontos pontja marad. A hotspot intenzitási pontszáma: **477.537**.
 
 **Vilnius County, Lithuania**  
-Recent developments suggest that an upward trend in incident activity can be observed in the Vilnius County, Lithuania area. The monitoring system detected a particularly high event density, while the change in activity reached 5124.4%. Current signals are primarily identified as news and media monitoring-based signal.  
-Signal type: **Politikai / biztonsági incidensjelzés**. Current trends suggest that this location is likely to remain an important focal point of regional monitoring in the short term. Hotspot intensity score: **294.468**.
+Recent developments suggest that an upward trend in incident activity can be observed in the Vilnius County, Lithuania area. The monitoring system detected a particularly high event density, while the change in activity reached 10339.7%. Current signals are primarily identified as news and media monitoring-based signal.  
+Signal type: **Politikai / biztonsági incidensjelzés**. Current trends suggest that this location is likely to remain an important focal point of regional monitoring in the short term. Hotspot intensity score: **477.537**.
 
 
 
