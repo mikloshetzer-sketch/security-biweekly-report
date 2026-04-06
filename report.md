@@ -9,8 +9,8 @@
 Balkán – Közép- és Kelet-Európa – Közel-Kelet  
 Balkans – Central and Eastern Europe – Middle East  
 
-Készítés dátuma: 2026-03-30  
-Date of issue: 2026-03-30  
+Készítés dátuma: 2026-04-06  
+Date of issue: 2026-04-06  
 
 Terjesztés: Nyilvános elemzés  
 Distribution: Public analysis  
@@ -20,166 +20,220 @@ Prepared by: toresvonalak.blog
 
 ---
 
-# 1. Vezetői összefoglaló  
+# 1. Vezetői összefoglaló
 ## Executive Summary
 
-Az elmúlt időszak fejleményei arra utalnak, hogy a megfigyelt régiókban továbbra is fennmaradnak a biztonsági kockázatok, különösen a regionális politikai feszültségek, a határmenti incidensek és a Közel-Kelethez kapcsolódó stratégiai bizonytalanság tekintetében.
+Az aktuális ciklusban a monitoring rendszer **5713 biztonsági relevanciájú eseményt** azonosított a vizsgált régiókban. A Balkánból **486**, Közép- és Kelet-Európából **5024**, a Közel-Kelethez kapcsolódó streamből pedig **203** tétel került a rendszerbe.
 
-A monitoring rendszer az aktuális időszakban **5900 biztonsági relevanciájú eseményt** azonosított a vizsgált térségekben.
+In the current cycle, the monitoring system identified **5713 security-relevant items** across the observed regions. Of these, **486** were linked to the Balkans, **5024** to Central and Eastern Europe, and **203** to the Middle East stream.
 
-A jelenlegi trendek alapján valószínűsíthető, hogy a Balkán és a közép- és kelet-európai térségben alacsony intenzitású, de tartós biztonsági incidensek maradnak jelen, míg a Közel-Kelet továbbra is jelentős politikai, gazdasági és stratégiai kockázati forrásként értékelhető.
+Az összkép alapján nem egyetlen domináns válságpont rajzolódik ki, hanem több párhuzamos nyomáspont: politikai polarizáció, lokalizált biztonsági incidensek, információs nyomásgyakorlás és stratégiai bizonytalanság.
 
-Bár közvetlen, nagyszabású katonai konfliktus nem minden térségben várható, a helyzet továbbra is fokozott figyelmet igényel a regionális biztonságpolitikai döntéshozók részéről.
+The overall picture does not suggest a single dominant crisis point, but rather multiple parallel pressure areas: political polarization, localized security incidents, information pressure and strategic uncertainty.
 
-Recent developments indicate that security risks remain present across the monitored regions, particularly with regard to political tensions, localized incident activity and persistent strategic uncertainty linked to the Middle East.
+**Balkán:** A Nyugat-Balkán biztonsági helyzete az elmúlt héten összességében fokozódó feszültségekkel terhelt képet mutatott. A térségben zajló folyamatokat továbbra is politikai instabilitás, biztonságpolitikai és katonai… A jelenlegi folyamatok rövid távon nem utalnak fegyveres konfliktus közvetlen kockázatára, ugyanakkor több ponton emelkedő eszkalációs nyomás érzékelhető. A legfőbb kockázatot továbbra is az alacsony intenzitású, de…
 
-The monitoring system identified **5900 security-relevant items** across the currently integrated regional streams.
+**Balkans:** A Nyugat-Balkán biztonsági helyzete az elmúlt héten összességében fokozódó feszültségekkel terhelt képet mutatott. A térségben zajló folyamatokat továbbra is politikai instabilitás, biztonságpolitikai és katonai… A jelenlegi folyamatok rövid távon nem utalnak fegyveres konfliktus közvetlen kockázatára, ugyanakkor több ponton emelkedő eszkalációs nyomás érzékelhető. A legfőbb kockázatot továbbra is az alacsony intenzitású, de…
 
-Current trends suggest that low-intensity but persistent security incidents are likely to remain present in the Balkans and in Central and Eastern Europe, while the Middle East continues to represent a significant source of political, economic and strategic risk.
+**Közép- és Kelet-Európa:** A közép– és kelet-európai térség biztonsági helyzete az elmúlt héten összességében fokozódó feszültségekkel terhelt képet mutatott. A regionális dinamikát elsősorban politikai instabilitás és kormányzati feszültségek,… A jelenlegi folyamatok rövid távon nem utalnak széles körű fegyveres eszkaláció közvetlen kockázatára, ugyanakkor több ponton emelkedő nyomás érzékelhető. A legfőbb kockázatot továbbra is a határbiztonsági incidensek,…
 
-While direct large-scale military confrontation is not assessed as imminent across all theatres, the overall environment still requires heightened analytical attention.
+**Central and Eastern Europe:** A közép– és kelet-európai térség biztonsági helyzete az elmúlt héten összességében fokozódó feszültségekkel terhelt képet mutatott. A regionális dinamikát elsősorban politikai instabilitás és kormányzati feszültségek,… A jelenlegi folyamatok rövid távon nem utalnak széles körű fegyveres eszkaláció közvetlen kockázatára, ugyanakkor több ponton emelkedő nyomás érzékelhető. A legfőbb kockázatot továbbra is a határbiztonsági incidensek,…
+
+A jelenlegi trendek alapján rövid távon inkább tartós, alacsonyabb intenzitású, de politikailag érzékeny biztonsági környezet valószínűsíthető, mintsem hirtelen, minden térséget egyszerre érintő eszkaláció.
+
+Current trends suggest a persistent, lower-intensity but politically sensitive security environment in the short term, rather than a sudden simultaneous escalation across all theatres.
+
 
 ---
 
-# 2. Aktuális biztonsági helyzet  
+# 2. Aktuális biztonsági helyzet
 ## Current Security Situation
 
 ### Politikai környezet / Political Environment
 
-A térség politikai rendszerei jelenleg relatív stabilitást mutatnak, ugyanakkor több országban megfigyelhető a politikai polarizáció erősödése és a társadalmi mobilizáció növekedése.
+A térség politikai rendszerei formális stabilitást mutatnak, ugyanakkor több országban erősödik a polarizáció, a társadalmi mobilizáció és a belpolitikai feszültségek biztonsági hatása.
 
-The political systems of the monitored regions currently show relative institutional stability, although political polarization and social mobilization are visible in several countries.
+Political systems across the monitored regions show formal stability, yet polarization, social mobilization and the security effects of domestic tensions are becoming more visible in several states.
 
 ### Katonai és biztonsági helyzet / Military and Security Situation
 
-Balkán régióban azonosított események száma: **487**  
-Közép- és Kelet-Európában azonosított események száma: **5214**  
-Közel-Kelethez kapcsolódó azonosított események száma: **199**
+Balkán régióban azonosított események száma: **486**  
+Közép- és Kelet-Európában azonosított események száma: **5024**  
+Közel-Kelethez kapcsolódó azonosított események száma: **203**
 
-Az incidensek többsége alacsony intenzitású eseményekhez, politikai feszültségekhez vagy biztonsági incidensekhez kapcsolódik, miközben a közel-keleti adatfolyam jelentős részben hír alapú regionális fejleményeket követ.
+Az incidensek többsége továbbra is alacsony vagy közepes intenzitású biztonsági fejleményekhez, politikai feszültségekhez, lokalizált gócpontokhoz vagy stratégiai jelentőségű híralapú eseményekhez kapcsolódik.
 
-Most detected items remain linked to low-intensity security developments, political tensions or localized incident clusters, while the Middle East data stream is largely driven by news-based regional developments.
+Most detected items remain linked to low- or medium-intensity security developments, political tensions, localized hotspots or strategically relevant news-based events.
 
 ### Közel-Kelet / Middle East
 
-A monitoring rendszer az aktuális időszakban **199 közel-keleti eseményt** azonosított. Az események túlnyomó része hírforrásokon alapuló regionális jelzésként értelmezhető.
+A monitoring rendszer az aktuális időszakban **203 közel-keleti eseményt** azonosított. Az események túlnyomó része hírforrásokon alapuló regionális jelzésként értelmezhető.
 
-The monitoring system identified **199 Middle East-related events** in the current dataset. Most items can be interpreted as news-based regional signals.
+The monitoring system identified **203 Middle East-related events** in the current dataset. Most items can be interpreted as news-based regional signals.
 
 #### Kiemelt események / Highlighted events
 
-**Iran Update Special Report, March 29, 2026**  
-Dátum: **2026-03-29** | Helyszín: **Israel** | Forrás: **ISW**  
-Az esemény általános monitoring jelzés kategóriába sorolható, és a monitoring rendszer 0.78 bizalmi szint mellett kezelte. A rendelkezésre álló összefoglaló alapján ez egy **regionális fejlemény**, amely hozzájárul a térség folyamatos stratégiai bizonytalanságához. The Institute for the Study of War (ISW) and The Critical Threats Project (CTP) at the American Enterprise Institute are publishing daily updates to provide analysis on the war with Iran. The updates focus on US and Israeli strikes on Iran and Iran and the Axis of Resistance’s response to the strikes. The updates cover events from the...
+**Iran Update Special Report, April 5, 2026**  
+Dátum: **2026-04-05** | Helyszín: **Israel** | Forrás: **ISW**  
+Az esemény **általános monitoring jelzés** kategóriába sorolható, és a monitoring rendszer **0.78** bizalmi szint mellett kezelte. A rendelkezésre álló összefoglaló alapján ez egy **regionális fejlemény**, amely hozzájárul a térség folyamatos stratégiai bizonytalanságához. The Institute for the Study of War (ISW) and The Critical Threats Project (CTP) at the American Enterprise Institute are publishing daily updates to provide analysis on the war with Iran. The updates focus on US and Israeli strikes on Iran and Iran and the Axis of Resistance’s response to the strikes. The updates cover events from the...
 
-**Iran Update Special Report, March 29, 2026**  
-Date: **2026-03-29** | Location: **Israel** | Source: **ISW**  
-This event can be classified as a general monitoring signal, and it was handled by the monitoring system with a confidence level of 0.78. Based on the available summary, this is a **military** development contributing to the region's continued strategic uncertainty. The Institute for the Study of War (ISW) and The Critical Threats Project (CTP) at the American Enterprise Institute are publishing daily updates to provide analysis on the war with Iran. The updates focus on US and Israeli strikes on Iran and Iran and the Axis of Resistance’s response to the strikes. The updates cover events from the...
+**Iran Update Special Report, April 5, 2026**  
+Date: **2026-04-05** | Location: **Israel** | Source: **ISW**  
+This event can be classified as a **general monitoring signal**, and it was handled by the monitoring system with a confidence level of **0.78**. Based on the available summary, this is a **military** development contributing to the region's continued strategic uncertainty. The Institute for the Study of War (ISW) and The Critical Threats Project (CTP) at the American Enterprise Institute are publishing daily updates to provide analysis on the war with Iran. The updates focus on US and Israeli strikes on Iran and Iran and the Axis of Resistance’s response to the strikes. The updates cover events from the...
 
-**Iran Update Special Report, March 28, 2026**  
-Dátum: **2026-03-28** | Helyszín: **Israel** | Forrás: **ISW**  
-Az esemény általános monitoring jelzés kategóriába sorolható, és a monitoring rendszer 0.78 bizalmi szint mellett kezelte. A rendelkezésre álló összefoglaló alapján ez egy **regionális fejlemény**, amely hozzájárul a térség folyamatos stratégiai bizonytalanságához. The Institute for the Study of War (ISW) and The Critical Threats Project (CTP) at the American Enterprise Institute are publishing daily updates to provide analysis on the war with Iran. The updates focus on US and Israeli strikes on Iran and Iran and the Axis of Resistance’s response to the strikes. The updates cover events from the...
+**Iran Update Special Report, April 4, 2026**  
+Dátum: **2026-04-04** | Helyszín: **Israel** | Forrás: **ISW**  
+Az esemény **általános monitoring jelzés** kategóriába sorolható, és a monitoring rendszer **0.78** bizalmi szint mellett kezelte. A rendelkezésre álló összefoglaló alapján ez egy **regionális fejlemény**, amely hozzájárul a térség folyamatos stratégiai bizonytalanságához. The Institute for the Study of War (ISW) and The Critical Threats Project (CTP) at the American Enterprise Institute are publishing daily updates to provide analysis on the war with Iran. The updates focus on US and Israeli strikes on Iran and Iran and the Axis of Resistance’s response to the strikes. The updates cover events from the...
 
-**Iran Update Special Report, March 28, 2026**  
-Date: **2026-03-28** | Location: **Israel** | Source: **ISW**  
-This event can be classified as a general monitoring signal, and it was handled by the monitoring system with a confidence level of 0.78. Based on the available summary, this is a **military** development contributing to the region's continued strategic uncertainty. The Institute for the Study of War (ISW) and The Critical Threats Project (CTP) at the American Enterprise Institute are publishing daily updates to provide analysis on the war with Iran. The updates focus on US and Israeli strikes on Iran and Iran and the Axis of Resistance’s response to the strikes. The updates cover events from the...
+**Iran Update Special Report, April 4, 2026**  
+Date: **2026-04-04** | Location: **Israel** | Source: **ISW**  
+This event can be classified as a **general monitoring signal**, and it was handled by the monitoring system with a confidence level of **0.78**. Based on the available summary, this is a **military** development contributing to the region's continued strategic uncertainty. The Institute for the Study of War (ISW) and The Critical Threats Project (CTP) at the American Enterprise Institute are publishing daily updates to provide analysis on the war with Iran. The updates focus on US and Israeli strikes on Iran and Iran and the Axis of Resistance’s response to the strikes. The updates cover events from the...
 
-**Iran Update Special Report, March 27, 2026**  
-Dátum: **2026-03-27** | Helyszín: **Israel** | Forrás: **ISW**  
-Az esemény általános monitoring jelzés kategóriába sorolható, és a monitoring rendszer 0.78 bizalmi szint mellett kezelte. A rendelkezésre álló összefoglaló alapján ez egy **regionális fejlemény**, amely hozzájárul a térség folyamatos stratégiai bizonytalanságához. The Institute for the Study of War (ISW) and The Critical Threats Project (CTP) at the American Enterprise Institute are publishing daily updates to provide analysis on the war with Iran. The updates focus on US and Israeli strikes on Iran and Iran and the Axis of Resistance’s response to the strikes. The updates cover events from the...
+**Iran Update Special Report, April 3, 2026**  
+Dátum: **2026-04-03** | Helyszín: **Israel** | Forrás: **ISW**  
+Az esemény **általános monitoring jelzés** kategóriába sorolható, és a monitoring rendszer **0.78** bizalmi szint mellett kezelte. A rendelkezésre álló összefoglaló alapján ez egy **regionális fejlemény**, amely hozzájárul a térség folyamatos stratégiai bizonytalanságához. The Institute for the Study of War (ISW) and The Critical Threats Project (CTP) at the American Enterprise Institute are publishing daily updates to provide analysis on the war with Iran. The updates focus on US and Israeli strikes on Iran and the Axis of Resistance’s response to the strikes. The updates cover events from the past 24-h...
 
-**Iran Update Special Report, March 27, 2026**  
-Date: **2026-03-27** | Location: **Israel** | Source: **ISW**  
-This event can be classified as a general monitoring signal, and it was handled by the monitoring system with a confidence level of 0.78. Based on the available summary, this is a **military** development contributing to the region's continued strategic uncertainty. The Institute for the Study of War (ISW) and The Critical Threats Project (CTP) at the American Enterprise Institute are publishing daily updates to provide analysis on the war with Iran. The updates focus on US and Israeli strikes on Iran and Iran and the Axis of Resistance’s response to the strikes. The updates cover events from the...
+**Iran Update Special Report, April 3, 2026**  
+Date: **2026-04-03** | Location: **Israel** | Source: **ISW**  
+This event can be classified as a **general monitoring signal**, and it was handled by the monitoring system with a confidence level of **0.78**. Based on the available summary, this is a **military** development contributing to the region's continued strategic uncertainty. The Institute for the Study of War (ISW) and The Critical Threats Project (CTP) at the American Enterprise Institute are publishing daily updates to provide analysis on the war with Iran. The updates focus on US and Israeli strikes on Iran and the Axis of Resistance’s response to the strikes. The updates cover events from the past 24-h...
+
 
 
 ---
 
-# 3. Geopolitikai környezet  
+# 3. Geopolitikai környezet
 ## Geopolitical Environment
 
-A térség geopolitikai jelentősége elsősorban abból fakad, hogy több stratégiai jelentőségű energia-, kereskedelmi és politikai útvonal metszéspontjában helyezkedik el.
+A térség geopolitikai jelentősége abból fakad, hogy stratégiai energia-, kereskedelmi és politikai útvonalak találkozási pontjában helyezkedik el. A jelenlegi dinamikát a nagyhatalmi versengés, a regionális biztonsági architektúra változásai és a gazdasági alkalmazkodóképesség kérdései alakítják.
 
-A jelenlegi geopolitikai dinamikát a nagyhatalmi versengés, a regionális biztonsági architektúra változásai és a gazdasági stabilitás kérdései alakítják.
+The geopolitical relevance of the broader area stems from its position along strategic energy, trade and political corridors. Current dynamics are shaped by great-power competition, changing security architectures and questions of economic resilience.
 
-The geopolitical relevance of the broader area stems primarily from its location along strategic energy, trade and political corridors.
-
-Current regional dynamics are shaped by great-power competition, changing security architectures and questions of economic resilience.
 
 ---
 
-# 4. Fő biztonsági kihívások  
+# 4. Fő biztonsági kihívások
 ## Main Security Challenges
 
-A legjelentősebb kockázatot jelenleg az jelenti, hogy több térségben egyszerre jelentkeznek politikai, gazdasági és biztonsági természetű kihívások.
+A legjelentősebb kockázatot jelenleg az jelenti, hogy több térségben egyszerre jelentkeznek politikai, gazdasági, információs és biztonsági természetű kihívások. A hibrid hadviselés elemei, különösen az információs műveletek és a kibertérhez kapcsolódó sérülékenységek, továbbra is fontos kockázati tényezők.
 
-A térségben az utóbbi időszakban erősödtek a hibrid hadviselés elemei, különösen az információs műveletek és a kibertérhez kapcsolódó sérülékenységek területén.
+The most significant current risk lies in the simultaneous presence of political, economic, information and security pressures across multiple monitored areas. Hybrid elements, especially information operations and cyber-related vulnerabilities, remain important risk factors.
 
-The most significant current risk lies in the simultaneous presence of political, economic and security pressures across multiple monitored areas.
-
-Hybrid elements have also become more visible, especially in the field of information influence and cyber-related vulnerabilities.
 
 ---
 
-# 5. Regionális hotspotok  
+# 5. Régiós értelmezés
+## Regional Analytical Context
+
+### Balkán
+
+**Nyugat-Balkán heti biztonsági brief**
+
+<p>A Nyugat-Balkán biztonsági helyzete az elmúlt héten összességében fokozódó feszültségekkel terhelt képet mutatott. A térségben zajló folyamatokat továbbra is politikai instabilitás, biztonságpolitikai és katonai érzékenységek, kritikus infrastruktúrához kapcsolódó sérülékenységek határozzák meg. A vizsgált időszakban nem történt olyan esemény, amely alapjaiban változtatta volna meg a régió biztonsági dinamikáját, ugyanakkor lokális incidensek és eszkalációs kockázatok megfigyelhetők voltak.</p> <p>Szerbia: Szerbia esetében a belpolitikai folyamatok továbbra is jelentős hatást gyakorolnak a…
+
+<p>A Nyugat-Balkán biztonsági helyzete az elmúlt héten összességében fokozódó feszültségekkel terhelt képet mutatott. A térségben zajló folyamatokat továbbra is politikai instabilitás, biztonságpolitikai és katonai érzékenységek, kritikus infrastruktúrához kapcsolódó sérülékenységek határozzák meg. A vizsgált időszakban nem történt olyan esemény, amely alapjaiban változtatta volna meg a régió biztonsági dinamikáját, ugyanakkor lokális incidensek és eszkalációs kockázatok megfigyelhetők voltak.</p> <p>Szerbia: Szerbia esetében a belpolitikai folyamatok továbbra is jelentős hatást gyakorolnak a…
+
+A régióban mért összesített heti eseménymennyiség: **486**. A legmagasabb súlyozott országkitettségek: **Kosovo (32.5), Albania (29.9), Bosnia and Herzegovina (20.8)**.
+
+Total weekly event volume in the region: **486**. Highest weighted country exposures: **Kosovo (32.5), Albania (29.9), Bosnia and Herzegovina (20.8)**.
+
+Forrásösszetétel: GDELT: 475, RSS: 7, USGS: 3, GDACS: 1.
+
+Source composition: GDELT: 475, RSS: 7, USGS: 3, GDACS: 1.
+
+**Kockázati értékelés:** A jelenlegi folyamatok rövid távon nem utalnak fegyveres konfliktus közvetlen kockázatára, ugyanakkor több ponton emelkedő eszkalációs nyomás érzékelhető. A legfőbb kockázatot továbbra is az alacsony intenzitású, de tartós politikai krízisek jelentik. A dezinformációs tevékenység és a polarizált médiakörnyezet növeli a társadalmi feszültségeket.
+
+**Risk assessment:** A jelenlegi folyamatok rövid távon nem utalnak fegyveres konfliktus közvetlen kockázatára, ugyanakkor több ponton emelkedő eszkalációs nyomás érzékelhető. A legfőbb kockázatot továbbra is az alacsony intenzitású, de tartós politikai krízisek jelentik. A dezinformációs tevékenység és a polarizált médiakörnyezet növeli a társadalmi feszültségeket.
+
+**Rövid távú előretekintés:** Rövid távon nem várható jelentős változás a biztonsági helyzetben, azonban a jelenlegi trendek fennmaradása esetén fokozatos romlás valószínűsíthető. A következő időszak kulcskérdése a szerb–koszovói párbeszéd alakulása lesz. A nemzetközi közösség szerepvállalása továbbra is elengedhetetlen a status quo fenntartásához.
+
+**Short-term outlook:** Rövid távon nem várható jelentős változás a biztonsági helyzetben, azonban a jelenlegi trendek fennmaradása esetén fokozatos romlás valószínűsíthető. A következő időszak kulcskérdése a szerb–koszovói párbeszéd alakulása lesz. A nemzetközi közösség szerepvállalása továbbra is elengedhetetlen a status quo fenntartásához.
+
+### Közép- és Kelet-Európa
+
+**Közép–Kelet-Európa heti biztonsági brief**
+
+<p>A közép– és kelet-európai térség biztonsági helyzete az elmúlt héten összességében fokozódó feszültségekkel terhelt képet mutatott. A regionális dinamikát elsősorban politikai instabilitás és kormányzati feszültségek, katonai és elrettentési dimenziók erősödése, energetikai és kritikus infrastruktúra-kitettség határozták meg. A vizsgált időszakban nem történt olyan egyedi esemény, amely alapjaiban alakította volna át a teljes térség biztonsági szerkezetét, ugyanakkor lokális incidensek és eszkalációs kockázatok több ponton megfigyelhetők voltak.</p> <p>Hungary: Magyarország esetében a heti…
+
+<p>A közép– és kelet-európai térség biztonsági helyzete az elmúlt héten összességében fokozódó feszültségekkel terhelt képet mutatott. A regionális dinamikát elsősorban politikai instabilitás és kormányzati feszültségek, katonai és elrettentési dimenziók erősödése, energetikai és kritikus infrastruktúra-kitettség határozták meg. A vizsgált időszakban nem történt olyan egyedi esemény, amely alapjaiban alakította volna át a teljes térség biztonsági szerkezetét, ugyanakkor lokális incidensek és eszkalációs kockázatok több ponton megfigyelhetők voltak.</p> <p>Hungary: Magyarország esetében a heti…
+
+A régióban mért összesített heti eseménymennyiség: **5024**. A legmagasabb súlyozott országkitettségek: **Romania (1897.4), Czech Republic (1578.8), Lithuania (1152.1)**.
+
+Total weekly event volume in the region: **5024**. Highest weighted country exposures: **Romania (1897.4), Czech Republic (1578.8), Lithuania (1152.1)**.
+
+Forrásösszetétel: GDELT_DOC: 3501, GDELT: 1124, DIRECT_FEED: 399.
+
+Source composition: GDELT_DOC: 3501, GDELT: 1124, DIRECT_FEED: 399.
+
+**Kockázati értékelés:** A jelenlegi folyamatok rövid távon nem utalnak széles körű fegyveres eszkaláció közvetlen kockázatára, ugyanakkor több ponton emelkedő nyomás érzékelhető. A legfőbb kockázatot továbbra is a határbiztonsági incidensek, az energetikai sérülékenységek, a dezinformáció és a belpolitikai polarizáció együttes hatása jelenti. A magas érzékenységű peremterületeken a lokális nyomáspontok gyorsan regionális figyelmet…
+
+**Risk assessment:** A jelenlegi folyamatok rövid távon nem utalnak széles körű fegyveres eszkaláció közvetlen kockázatára, ugyanakkor több ponton emelkedő nyomás érzékelhető. A legfőbb kockázatot továbbra is a határbiztonsági incidensek, az energetikai sérülékenységek, a dezinformáció és a belpolitikai polarizáció együttes hatása jelenti. A magas érzékenységű peremterületeken a lokális nyomáspontok gyorsan regionális figyelmet…
+
+**Rövid távú előretekintés:** Rövid távon nem várható a regionális helyzet gyökeres átalakulása, ugyanakkor a jelenlegi mintázatok fennmaradása esetén több ponton fokozatos romlás valószínűsíthető. A következő időszak kulcskérdése várhatóan a keleti peremterületek biztonságpolitikai terheltsége lesz. Az események folyamatos monitorozása továbbra is indokolt, különösen a magas érzékenységű határtérségekben és az energetikai kapcsolódási pontokon.
+
+**Short-term outlook:** Rövid távon nem várható a regionális helyzet gyökeres átalakulása, ugyanakkor a jelenlegi mintázatok fennmaradása esetén több ponton fokozatos romlás valószínűsíthető. A következő időszak kulcskérdése várhatóan a keleti peremterületek biztonságpolitikai terheltsége lesz. Az események folyamatos monitorozása továbbra is indokolt, különösen a magas érzékenységű határtérségekben és az energetikai kapcsolódási pontokon.
+
+
+---
+
+# 5/A. Regionális hotspotok
 ## Regional Hotspots
 
 ### Balkán
 **Regional Unit of East Attica, Greece**  
-Az elmúlt időszak fejleményei arra utalnak, hogy Regional Unit of East Attica, Greece térségében növekvő incidensaktivitás figyelhető meg. A monitoring rendszer kiemelkedően magas eseménysűrűséget azonosított, az aktivitásváltozás mértéke pedig 277.7%. A jelenlegi jelzések elsődlegesen hír- és médiamonitoring alapú incidensjelzés formájában jelentkeznek.  
-Jelzés típusa: **Politikai / biztonsági incidensjelzés**. A jelenlegi trendek alapján valószínűsíthető, hogy a térség rövid távon is a regionális figyelem egyik fontos pontja marad. A hotspot intenzitási pontszáma: **24.337**.
+Az elmúlt időszak fejleményei alapján Regional Unit of East Attica, Greece térségében növekvő aktivitás figyelhető meg. A monitoring rendszer korlátozott, de releváns aktivitást azonosított, az aktivitásváltozás mértéke **343.8%**, míg a hotspot intenzitási pontszáma **22.146**. A jelenlegi jelzések elsődlegesen **hír- és politikai-biztonsági monitorozási jelzés** formájában jelentkeznek.  
+Jelzés típusa: **Politikai / biztonsági incidensjelzés / Political-security incident signal**. A rövid távú kilátások alapján a térség továbbra is releváns fókuszpont maradhat a regionális monitoring számára.
 
 **Regional Unit of East Attica, Greece**  
-Recent developments suggest that an upward trend in incident activity can be observed in the Regional Unit of East Attica, Greece area. The monitoring system detected a particularly high event density, while the change in activity reached 277.7%. Current signals are primarily identified as news and media monitoring-based signal.  
-Signal type: **Politikai / biztonsági incidensjelzés**. Current trends suggest that this location is likely to remain an important focal point of regional monitoring in the short term. Hotspot intensity score: **24.337**.
+Recent developments suggest that an upward trend in activity can be observed in the Regional Unit of East Attica, Greece area. The monitoring system detected limited but relevant activity, while the change in activity reached **343.8%** and the hotspot intensity score stands at **22.146**. Current signals are primarily identified as **news and political-security monitoring signal**.  
+Signal type: **Politikai / biztonsági incidensjelzés / Political-security incident signal**. Based on current trends, the location is likely to remain a relevant focal point for regional monitoring in the short term.
 
 **Phthiotis Regional Unit, Greece**  
-Az elmúlt időszak fejleményei arra utalnak, hogy Phthiotis Regional Unit, Greece térségében növekvő incidensaktivitás figyelhető meg. A monitoring rendszer jelentős eseménysűrűséget azonosított, az aktivitásváltozás mértéke pedig 389.5%. A jelenlegi jelzések elsődlegesen hír- és médiamonitoring alapú incidensjelzés formájában jelentkeznek.  
-Jelzés típusa: **Politikai / biztonsági incidensjelzés**. A jelenlegi trendek alapján valószínűsíthető, hogy a térség rövid távon is a regionális figyelem egyik fontos pontja marad. A hotspot intenzitási pontszáma: **17.605**.
+Az elmúlt időszak fejleményei alapján Phthiotis Regional Unit, Greece térségében növekvő aktivitás figyelhető meg. A monitoring rendszer korlátozott, de releváns aktivitást azonosított, az aktivitásváltozás mértéke **359.6%**, míg a hotspot intenzitási pontszáma **17.641**. A jelenlegi jelzések elsődlegesen **hír- és politikai-biztonsági monitorozási jelzés** formájában jelentkeznek.  
+Jelzés típusa: **Politikai / biztonsági incidensjelzés / Political-security incident signal**. A rövid távú kilátások alapján a térség továbbra is releváns fókuszpont maradhat a regionális monitoring számára.
 
 **Phthiotis Regional Unit, Greece**  
-Recent developments suggest that an upward trend in incident activity can be observed in the Phthiotis Regional Unit, Greece area. The monitoring system detected a significant event density, while the change in activity reached 389.5%. Current signals are primarily identified as news and media monitoring-based signal.  
-Signal type: **Politikai / biztonsági incidensjelzés**. Current trends suggest that this location is likely to remain an important focal point of regional monitoring in the short term. Hotspot intensity score: **17.605**.
+Recent developments suggest that an upward trend in activity can be observed in the Phthiotis Regional Unit, Greece area. The monitoring system detected limited but relevant activity, while the change in activity reached **359.6%** and the hotspot intensity score stands at **17.641**. Current signals are primarily identified as **news and political-security monitoring signal**.  
+Signal type: **Politikai / biztonsági incidensjelzés / Political-security incident signal**. Based on current trends, the location is likely to remain a relevant focal point for regional monitoring in the short term.
 
-**Municipality of Pristina, Kosovo**  
-Az elmúlt időszak fejleményei arra utalnak, hogy Municipality of Pristina, Kosovo térségében növekvő incidensaktivitás figyelhető meg. A monitoring rendszer érzékelhető eseménysűrűséget azonosított, az aktivitásváltozás mértéke pedig 414.5%. A jelenlegi jelzések elsődlegesen hír- és médiamonitoring alapú incidensjelzés formájában jelentkeznek.  
-Jelzés típusa: **Politikai / biztonsági incidensjelzés**. A jelenlegi trendek alapján valószínűsíthető, hogy a térség rövid távon is a regionális figyelem egyik fontos pontja marad. A hotspot intenzitási pontszáma: **15.139**.
+**Pest, Hungary**  
+Az elmúlt időszak fejleményei alapján Pest, Hungary térségében növekvő aktivitás figyelhető meg. A monitoring rendszer korlátozott, de releváns aktivitást azonosított, az aktivitásváltozás mértéke **493.3%**, míg a hotspot intenzitási pontszáma **16.086**. A jelenlegi jelzések elsődlegesen **hír- és politikai-biztonsági monitorozási jelzés** formájában jelentkeznek.  
+Jelzés típusa: **Politikai / biztonsági incidensjelzés / Political-security incident signal**. A rövid távú kilátások alapján a térség továbbra is releváns fókuszpont maradhat a regionális monitoring számára.
 
-**Municipality of Pristina, Kosovo**  
-Recent developments suggest that an upward trend in incident activity can be observed in the Municipality of Pristina, Kosovo area. The monitoring system detected a noticeable event density, while the change in activity reached 414.5%. Current signals are primarily identified as news and media monitoring-based signal.  
-Signal type: **Politikai / biztonsági incidensjelzés**. Current trends suggest that this location is likely to remain an important focal point of regional monitoring in the short term. Hotspot intensity score: **15.139**.
+**Pest, Hungary**  
+Recent developments suggest that an upward trend in activity can be observed in the Pest, Hungary area. The monitoring system detected limited but relevant activity, while the change in activity reached **493.3%** and the hotspot intensity score stands at **16.086**. Current signals are primarily identified as **news and political-security monitoring signal**.  
+Signal type: **Politikai / biztonsági incidensjelzés / Political-security incident signal**. Based on current trends, the location is likely to remain a relevant focal point for regional monitoring in the short term.
 
 
 ### Közép- és Kelet-Európa
-**SO ORP Kralupy nad Vltavou, Czechia**  
-Az elmúlt időszak fejleményei arra utalnak, hogy SO ORP Kralupy nad Vltavou, Czechia térségében növekvő incidensaktivitás figyelhető meg. A monitoring rendszer kiemelkedően magas eseménysűrűséget azonosított, az aktivitásváltozás mértéke pedig 10504.2%. A jelenlegi jelzések elsődlegesen hír- és médiamonitoring alapú incidensjelzés formájában jelentkeznek.  
-Jelzés típusa: **Politikai / biztonsági incidensjelzés**. A jelenlegi trendek alapján valószínűsíthető, hogy a térség rövid távon is a regionális figyelem egyik fontos pontja marad. A hotspot intenzitási pontszáma: **821.813**.
-
-**SO ORP Kralupy nad Vltavou, Czechia**  
-Recent developments suggest that an upward trend in incident activity can be observed in the SO ORP Kralupy nad Vltavou, Czechia area. The monitoring system detected a particularly high event density, while the change in activity reached 10504.2%. Current signals are primarily identified as news and media monitoring-based signal.  
-Signal type: **Politikai / biztonsági incidensjelzés**. Current trends suggest that this location is likely to remain an important focal point of regional monitoring in the short term. Hotspot intensity score: **821.813**.
+**Giurgiu, Romania**  
+Az elmúlt időszak fejleményei alapján Giurgiu, Romania térségében növekvő aktivitás figyelhető meg. A monitoring rendszer rendkívül magas eseménysűrűséget azonosított, az aktivitásváltozás mértéke **8440.2%**, míg a hotspot intenzitási pontszáma **740.540**. A jelenlegi jelzések elsődlegesen **dokumentum- és médiamonitoring alapú biztonsági jelzés** formájában jelentkeznek.  
+Jelzés típusa: **Dokumentum- és médiavezérelt biztonsági gócpont / Document-driven security hotspot**. A rövid távú kilátások alapján a térség továbbra is releváns fókuszpont maradhat a regionális monitoring számára.
 
 **Giurgiu, Romania**  
-Az elmúlt időszak fejleményei arra utalnak, hogy Giurgiu, Romania térségében növekvő incidensaktivitás figyelhető meg. A monitoring rendszer kiemelkedően magas eseménysűrűséget azonosított, az aktivitásváltozás mértéke pedig 6125.9%. A jelenlegi jelzések elsődlegesen hír- és médiamonitoring alapú incidensjelzés formájában jelentkeznek.  
-Jelzés típusa: **Politikai / biztonsági incidensjelzés**. A jelenlegi trendek alapján valószínűsíthető, hogy a térség rövid távon is a regionális figyelem egyik fontos pontja marad. A hotspot intenzitási pontszáma: **664.587**.
+Recent developments suggest that an upward trend in activity can be observed in the Giurgiu, Romania area. The monitoring system detected an exceptionally high event density, while the change in activity reached **8440.2%** and the hotspot intensity score stands at **740.540**. Current signals are primarily identified as **document and media monitoring-based security signal**.  
+Signal type: **Dokumentum- és médiavezérelt biztonsági gócpont / Document-driven security hotspot**. Based on current trends, the location is likely to remain a relevant focal point for regional monitoring in the short term.
 
-**Giurgiu, Romania**  
-Recent developments suggest that an upward trend in incident activity can be observed in the Giurgiu, Romania area. The monitoring system detected a particularly high event density, while the change in activity reached 6125.9%. Current signals are primarily identified as news and media monitoring-based signal.  
-Signal type: **Politikai / biztonsági incidensjelzés**. Current trends suggest that this location is likely to remain an important focal point of regional monitoring in the short term. Hotspot intensity score: **664.587**.
+**SO ORP Kralupy nad Vltavou, Czechia**  
+Az elmúlt időszak fejleményei alapján SO ORP Kralupy nad Vltavou, Czechia térségében növekvő aktivitás figyelhető meg. A monitoring rendszer rendkívül magas eseménysűrűséget azonosított, az aktivitásváltozás mértéke **7622.0%**, míg a hotspot intenzitási pontszáma **685.697**. A jelenlegi jelzések elsődlegesen **dokumentum- és médiamonitoring alapú biztonsági jelzés** formájában jelentkeznek.  
+Jelzés típusa: **Dokumentum- és médiavezérelt biztonsági gócpont / Document-driven security hotspot**. A rövid távú kilátások alapján a térség továbbra is releváns fókuszpont maradhat a regionális monitoring számára.
+
+**SO ORP Kralupy nad Vltavou, Czechia**  
+Recent developments suggest that an upward trend in activity can be observed in the SO ORP Kralupy nad Vltavou, Czechia area. The monitoring system detected an exceptionally high event density, while the change in activity reached **7622.0%** and the hotspot intensity score stands at **685.697**. Current signals are primarily identified as **document and media monitoring-based security signal**.  
+Signal type: **Dokumentum- és médiavezérelt biztonsági gócpont / Document-driven security hotspot**. Based on current trends, the location is likely to remain a relevant focal point for regional monitoring in the short term.
 
 **Vilnius County, Lithuania**  
-Az elmúlt időszak fejleményei arra utalnak, hogy Vilnius County, Lithuania térségében növekvő incidensaktivitás figyelhető meg. A monitoring rendszer kiemelkedően magas eseménysűrűséget azonosított, az aktivitásváltozás mértéke pedig 9013.7%. A jelenlegi jelzések elsődlegesen hír- és médiamonitoring alapú incidensjelzés formájában jelentkeznek.  
-Jelzés típusa: **Politikai / biztonsági incidensjelzés**. A jelenlegi trendek alapján valószínűsíthető, hogy a térség rövid távon is a regionális figyelem egyik fontos pontja marad. A hotspot intenzitási pontszáma: **655.554**.
+Az elmúlt időszak fejleményei alapján Vilnius County, Lithuania térségében növekvő aktivitás figyelhető meg. A monitoring rendszer magas eseménysűrűséget azonosított, az aktivitásváltozás mértéke **7134.7%**, míg a hotspot intenzitási pontszáma **493.431**. A jelenlegi jelzések elsődlegesen **dokumentum- és médiamonitoring alapú biztonsági jelzés** formájában jelentkeznek.  
+Jelzés típusa: **Dokumentum- és médiavezérelt biztonsági gócpont / Document-driven security hotspot**. A rövid távú kilátások alapján a térség továbbra is releváns fókuszpont maradhat a regionális monitoring számára.
 
 **Vilnius County, Lithuania**  
-Recent developments suggest that an upward trend in incident activity can be observed in the Vilnius County, Lithuania area. The monitoring system detected a particularly high event density, while the change in activity reached 9013.7%. Current signals are primarily identified as news and media monitoring-based signal.  
-Signal type: **Politikai / biztonsági incidensjelzés**. Current trends suggest that this location is likely to remain an important focal point of regional monitoring in the short term. Hotspot intensity score: **655.554**.
+Recent developments suggest that an upward trend in activity can be observed in the Vilnius County, Lithuania area. The monitoring system detected a high event density, while the change in activity reached **7134.7%** and the hotspot intensity score stands at **493.431**. Current signals are primarily identified as **document and media monitoring-based security signal**.  
+Signal type: **Dokumentum- és médiavezérelt biztonsági gócpont / Document-driven security hotspot**. Based on current trends, the location is likely to remain a relevant focal point for regional monitoring in the short term.
 
 
 
 ---
 
-# 6. Kockázatelemzés  
+# 6. Kockázatelemzés
 ## Risk Assessment
 
 | Fenyegetés | Valószínűség | Hatás | Kockázati szint |
@@ -190,22 +244,28 @@ Signal type: **Politikai / biztonsági incidensjelzés**. Current trends suggest
 | Nagyhatalmi versengés | közepes | magas | magas |
 | Energiapiaci zavarok | közepes | magas | magas |
 
+| Threat | Probability | Impact | Risk level |
+|---|---|---|---|
+| Border incidents | high | medium | high |
+| Political instability | medium | high | high |
+| Hybrid operations | high | medium | high |
+| Great-power competition | medium | high | high |
+| Energy-market disruption | medium | high | high |
+
+
 ---
 
-# 7. Előrejelzés  
+# 7. Előrejelzés
 ## Forecast
 
-A jelenlegi trendek alapján valószínűsíthető, hogy a régiókban rövid távon fennmarad az alacsony intenzitású biztonsági feszültség, miközben a Közel-Kelethez kapcsolódó fejlemények továbbra is közvetett hatást gyakorolhatnak a tágabb regionális biztonsági környezetre.
+A jelenlegi trendek alapján rövid távon fennmaradhat az alacsonyabb intenzitású, de tartós biztonsági nyomás, miközben a Közel-Kelethez kapcsolódó fejlemények közvetett hatást gyakorolhatnak a tágabb regionális környezetre. A geopolitikai rivalizálás erősödése miatt a vizsgált térség továbbra is stratégiai jelentőségű biztonsági tér marad.
 
-A geopolitikai rivalizálás erősödése következtében a térség továbbra is stratégiai jelentőségű biztonsági térként jelenik meg.
+Current trends suggest that lower-intensity but persistent security pressure is likely to continue in the short term, while developments linked to the Middle East may continue to shape the broader environment indirectly. As geopolitical rivalry intensifies, the monitored space is likely to remain strategically relevant.
 
-Current trends suggest that low-intensity regional security pressure is likely to persist in the short term, while developments linked to the Middle East may continue to shape the broader regional environment indirectly.
-
-As geopolitical rivalry intensifies, the monitored space will likely continue to function as a strategically relevant security environment.
 
 ---
 
-# 8. Ajánlások  
+# 8. Ajánlások
 ## Recommendations
 
 A regionális stabilitás fenntartása érdekében a következő lépések javasoltak:
@@ -224,17 +284,19 @@ To support regional stability, the following steps are recommended:
 - broaden international programs supporting economic resilience  
 - continuously monitor energy-security vulnerabilities  
 
+
 ---
 
-# 9. Módszertan és adatforrások  
+# 9. Módszertan és adatforrások
 ## Methodology and Data Sources
 
-A jelentés automatizált monitoring rendszerekből származó adatok feldolgozásán alapul. A jelenlegi verzió a heti összesítések, hotspot-jelzések és a Közel-Kelethez kapcsolódó eseménylisták alapján készül.
+A jelentés automatizált monitoring rendszerekből származó adatok feldolgozásán alapul. A jelenlegi verzió heti összesítésekre, hotspot-jelzésekre és a Közel-Kelethez kapcsolódó eseménylistákra épül. A brief kiegészítő elemző szövegeket is felhasznál, amennyiben azok elérhetők a régiós weekly állományokban.
 
-This report is based on automated monitoring outputs. The current version relies on weekly aggregation files, hotspot signal summaries and Middle East event lists.
+This report is based on automated monitoring outputs. The current version relies on weekly aggregation files, hotspot signal summaries and Middle East event lists. Where available, the brief also uses analytical text fields from regional weekly files.
 
 Adatforrások / Data sources:
 
 - Balkan Security Map  
 - CEE Security Map  
 - Middle East Security Monitor
+
